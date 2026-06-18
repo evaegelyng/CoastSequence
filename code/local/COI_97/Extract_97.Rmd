@@ -1,6 +1,5 @@
 ---
 title: "Normalizing pident97 data"
-author: "Karoline and Eva"
 date: "03/03/2025"
 output: html_document
 ---

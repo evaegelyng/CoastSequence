@@ -1,6 +1,5 @@
 ---
 title: "Salinity plots"
-author: "Eva Egelyng Sigsgaard"
 date: "2023-11-24"
 output: html_document
 ---

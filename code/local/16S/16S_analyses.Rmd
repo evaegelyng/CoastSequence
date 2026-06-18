@@ -1,6 +1,5 @@
 ---
 title: "16S analyses"
-author: "Eva Egelyng Sigsgaard"
 date: "2023-09-29"
 output: html_document
 ---

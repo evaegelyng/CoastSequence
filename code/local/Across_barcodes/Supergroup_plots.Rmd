@@ -1,6 +1,5 @@
 ---
 title: "supergroup plots correct data"
-author: "Karoline"
 date: "1/2/2023"
 output: html_document
 ---

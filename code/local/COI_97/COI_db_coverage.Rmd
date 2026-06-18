@@ -1,6 +1,5 @@
 ---
 title: "COI_coverage"
-author: "Eva Sigsgaard"
 date: "2025-02-05"
 output: html_document
 ---

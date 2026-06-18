@@ -1,6 +1,5 @@
 ---
 title: "Euk_Pro_rich"
-author: "Eva Sigsgaard"
 date: "2024-12-05"
 output: html_document
 ---

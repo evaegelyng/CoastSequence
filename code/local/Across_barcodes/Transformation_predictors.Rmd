@@ -1,6 +1,5 @@
 ---
 title: "Transformation of predictors"
-author: "Eva Egelyng Sigsgaard"
 date: "2023-11-16"
 output: html_document
 ---
