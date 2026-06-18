@@ -36,5 +36,3 @@ The files are described individually below:
     - Description: Physicochemical measurements for sediment samples collected in spring.
     - Columns: "Sample_ID" (see explanation above), "Grain size" (grain size category; 1 = mud, 2= sand, 3 = gravel), "Density_wet" (wet density in g/mL), "Dry_matter_per_WW" (g dry matter per g wet weight),
     "Watercontent" (water content in g/mL), "Organic_content" (g organic matter per g sample), "Inorganic_content" (g inorganic matter per g sample), "TP" (total phosporus in mg/g dry sample).
-
-In addition to these files, there is a file named dist_by_sea.txt that contains the shortest pairwise distances by sea (in km) between any two sampling stations ("SiteA" and "SiteB"). 
