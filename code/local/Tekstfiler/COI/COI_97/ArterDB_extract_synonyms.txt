@@ -1,0 +1,2576 @@
+Phylum	Scientific_name_ARTER	Synonym_ARTER_1	Synonym_ARTER_2	Synonym_ARTER_3	Synonym_ARTER_4	Synonym_ARTER_5	Synonym_ARTER_6	Synonym_ARTER_7	Synonym_ARTER_8	GBIF_synonym	External_synonym	Synonym_Philip	Marine	BOLD_barcode	
+Acanthocephala	Acanthocephalus anguillae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Acanthocephala	Acanthocephalus clavula	Echinorhynchus clavula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Acanthocephala	Acanthocephalus lucii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Acanthocephala	Echinorhynchus gadi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Acanthocephala	Echinorhynchus truttae	Metechinorhynchus truttae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Acanthocephala	Pomphorhynchus laevis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Acanthocephala	Polymorphus minutus	Polymorphus boschadis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Cognettia glandulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Cognettia sphagnetorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Enchytraeus capitatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Enchytraeus christenseni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Enchytraeus lacteus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Fridericia bulboides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Fridericia bulbosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Fridericia callosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Fridericia parathalassia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Fridericia paroniana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Fridericia perrieri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Fridericia ratzeli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Fridericia striata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Globulidrilus riparius	Marionina riparia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Hemifridericia parva	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Henlea nasuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Henlea perpusilla	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Henlea ventriculosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lumbricillus arenarius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lumbricillus fennicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lumbricillus fossarum	Pachydrilus fossarum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lumbricillus kaloensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lumbricillus lineatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lumbricillus pagenstecheri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lumbricillus rivalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Marionina argentea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Marionina communis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Marionina preclitellochaeta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Mesenchytraeus armatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lumbriculus variegatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Glossiphonia heteroclita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Piscicola geometra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pontobdella muricata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Baltidrilus costatus	Heterochaeta costata	 Tubifex costatus	 Psammobius hyalinus	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Clitellio arenarius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Limnodrilus udekemianus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Monopylephorus rubroniveus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Psammoryctides albicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Psammoryctides barbatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Tubifex nerthus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Tubifex tubifex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Hermodice carunculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Paramphinome jeffreysii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Euphrosine borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Bonellia viridis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Maxmuelleria lankesteri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Echiurus echiurus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Dimorphilus gyrociliatus	Dinophilus gyrociliatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Dinophilus taeniatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Trilobodrilus axi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Trilobodrilus heideri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Diurodrilus minimus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Diurodrilus subterraneus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophryotrocha gerlachi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophryotrocha geryonicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophryotrocha hartmanni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Ophryotrocha longidentata	Palpiphitime longidentata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophryotrocha maculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophryotrocha puerilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophryotrocha socialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ougia subaequalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Parapodrilus psammophilus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Parophryotrocha isochaeta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Parougia eliasoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protodorvillea kefersteini	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Eunice norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Eunice pennata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Histriobdella homari	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Abyssoninoe scopa	Lumbrineris scopa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Hilbigneris gracilis	Lumbrineris gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lumbrineris latreilli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Scoletoma fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Scoletoma magnidentata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Scoletoma tetraura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Drilonereis filum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Haematocleptes terebellidis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Hyalinoecia tubicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nothria conchylega	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Paradiopatra quadricuspis	Nothria quadricuspis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Panthalis oerstedi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Aphrodita aculeata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Laetmonice filicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Calamyzas amphictenicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Glycera alba	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Glycera capitata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Glycera celtica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Glycera fallax	Glycera gigantea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Glycera lapidum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Glycera oxycephala	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Glycera tesselata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Glycera unicornis	Glycera rouxii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Glycinde nordmanni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Goniada maculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Goniada norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Goniada pallida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Goniadella bobrezkii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Neogyptis rosea	Gyptis rosea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nereimyra punctata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Oxydromus flexuosus	Ophiodromus flexuosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Podarkeopsis helgolandicus	Gyptis helgolandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	Podarkeopsis helgolandica	x	-	
+Annelida	Psamathe fusca	Kefersteinia cirrhata	 Psamathe cirrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Syllidia armata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Hesionides arenaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Hesionides maxima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Microphthalmus aberrans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Microphthalmus bifurcatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Microphthalmus fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Microphthalmus listensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Microphthalmus sczelkowii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Microphthalmus similis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aglaophamus agilis	Aglaophamus rubella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aglaophamus malmgreni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Aglaophamus pulcher	Nephtys pulchra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nephtys assimilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nephtys caeca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nephtys ciliata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nephtys cirrosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nephtys hombergii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nephtys incisa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nephtys longosetosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nephtys paradoxa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nephtys pente	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Alitta grandis	Neanthes grandis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Alitta succinea	Neanthes succinea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Alitta virens	Neanthes virens	 Nereis virens	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Ceratocephale loveni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eunereis elitoralis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Eunereis elittoralis	x	-	
+Annelida	Eunereis longissima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Hediste diversicolor	Nereis diversicolor	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Neanthes fucata	Nereis fucata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Neanthes nubila	Neanthes irrorata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nereis pelagica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nereis zonata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Perinereis cultrifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Platynereis dumerilii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Platynereis massiliensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Websterinereis glauca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Alciopa reynaudii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Chaetoparia nilssoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Eteone flava	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eteone longa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eteone suecica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Eulalia bilineata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Eulalia viridis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eumida alkyone	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eumida arctica	Eumida minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eumida bahusiensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eumida kelaino	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eumida ockelmanni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Eumida sanguinea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Hesionura elongata	Hesionura augeneri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Hypereteone foliosa	Eteone foliosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Mysta barbata	Eteone barbata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Mystides caeca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nereiphylla lutea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Notophyllum foliosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Paranaitis kosteriensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Paranaitis wahlbergi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Phyllodoce citrina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Phyllodoce groenlandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Phyllodoce longipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Phyllodoce maculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Phyllodoce mucosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Phyllodoce rosea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protomystides exigua	Pseudeulalia exigua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pseudomystides limbata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pseudomystides spinachia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sige fusigera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Glyphohesione klatti	Synelmis klatti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Acanthicolepis asperrima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Alentia gelatinosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Austrolaenilla mollis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Bylgides sarsi	Antinoella sarsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Diplaconotum paucidentatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Diplaconotum paucidendatum	x	-	
+Annelida	Enipo kinbergi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Eucranta villosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eunoe nodosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Gattyana amondseni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Gattyana cirrhosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Harmothoe antilopes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Harmothoe aspera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Harmothoe extenuata	Lagisca propinqua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Harmothoe fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Harmothoe glabra	Malmgreniella glabra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Harmothoe imbricata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Harmothoe impar	Lagisca elisabethae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lepidonotus squamatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Leucia nivea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Malmgrenia ljungmani	Harmothoe ljungmani	 Malmgreniella ljungmani	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Malmgrenia lunulata	Harmothoe lunulata	 Malmgreniella lunulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Neopolynoe paradoxa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pettibonesia furcosetosa	Malmgrenia furcosetosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Polynoe scolopendrina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Subadyte pellucida	Adyte pellucida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Fimbriosthenelais zetlandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Neoleanira tetragona	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pholoe assimilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pholoe baltica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pholoe inornata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pholoe pallida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pisione remota	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sigalion mathildae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sthenelais boa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Sthenelais jeffreysi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sthenelais limicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Commensodorum commensalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Geminofilum distichum	Sphaerodoropsis disticha	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sphaerodoridium minutum	Sphaerodoropsis minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sphaerodoropsis baltica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sphaerodoropsis philippi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Sphaerodorum gracilis	Ephesiella abyssorum	 Sphaerodorum peripatus	 Sphaerodorum flavum	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Epigamia alexandri	Autolytus longeferiens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Erinaceusyllis erinaceus	Sphaerosyllis erinaceus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Eusyllis blomstrandi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Exogone dispar	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Exogone naidina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Exogone verugera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myrianida brachycephala	Autolytus brachycephalus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myrianida edwarsi	Autolytus edwarsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myrianida inermis	Autolytus inermis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myrianida irregularis	Autolytus rubrolineatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myrianida langerhansi	Autolytus langerhansi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myrianida prolifera	Autolytus prolifer	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myrianida quindecimdentata	Autolytus quinquedecimdentatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myrianida rubropunctata	Autolytus rubropunctatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Odontosyllis fulgurans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Parexogone hebes	Exogone hebes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pionosyllis compacta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Proceraea aurantiaca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Proceraea cornuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Proceraea prismatica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Procerastea halleziana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Procerastea nematodes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Prosphaerosyllis tetralix	Sphaerosyllis tetralix	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Salvatoria limbata	Pseudobrania limbata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sphaerosyllis hystrix	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Streptosyllis websteri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Syllides articulocirratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Syllides longocirratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Syllis armillaris	Typosyllis armillaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Syllis cornuta	Ehlersia cornuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Syllis gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Syllis hyalina	Typosyllis hyalina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Syllis variegata	Typosyllis variegata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Tomopteris helgolandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Tomopteris septentrionalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Fabricia stellaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Fabriciola baltica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Manayunkia aestuarina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Galathowenia oculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Owenia fusiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Sabellaria spinulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Bispira crassicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Branchiomma bombyx	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Branchiomma inconspicua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Chone duneri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Chone filicaudata	Paradialychone filicaudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Chone infundibuliformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Claviramus candelus	Jasmineira candela	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Euchone analis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Euchone papillosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Euchone rubrocincta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Laonome kroyeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Myxicola infundibulum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Notaulax rectangulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Potamilla neglecta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pseudopotamilla reniformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Sabella pavonina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Apomatus similis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Bushiella granulata	Pileolaria granulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Chitinopoma serrula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Circeis armoricana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Circeis spirillum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Ditrupa arietina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ficopomatus enigmaticus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Filograna implexa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Hydroides norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Janua heterostropha	Janua pagenstecheri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Paradexiospira vitrea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Placostegus tridentatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protula tubularia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Salmacina dysteri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Serpula vermicularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spirobranchus triqueter	Pomatoceros triqueter	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spirorbis corallinae	Laeospira corallinae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spirorbis spirorbis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spirorbis tridentatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Actaedrilus polyonyx	Macrochaeta polyonyx	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Macrochaeta clavicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Macrochaeta helgolandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Alkmaria romijni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Amage auricula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ampharete acutifrons	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Ampharete baltica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ampharete falcata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ampharete finmarchica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Ampharete lindstroemi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ampharete octocirrata	Sabellides octocirrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Amphicteis gunneri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Amphicteis midas	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Amythasides macroglossus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Anobothrus gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eclysippe vanelli	Pterolysippe vanelli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lysippe fragilis	Lysippides fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lysippe labiata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Samytha sexcirrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Sosane sulcata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Sosane wahrbergi	Mugga wahrbergi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Sosane wireni	Sosanopsis wireni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Apistobranchus tenuis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Apistobranchus tullbergi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Arenicola marina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Arenicolides ecaudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Capitella capitata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Capitella giardi	Capitellides giardi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Dasybranchus caducus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Heteromastus filiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Mediomastus fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Notomastus latericeus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Chaetopterus variopedatus	Chaetopterus norvegicus	 Chaetopterus sarsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Phyllochaetopterus major	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spiochaetopterus typicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aphelochaeta filiformis	Cirratulus filiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Aphelochaeta marioni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aphelochaeta mcintoshi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aphelochaeta multibranchis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Caulleriella bioculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Chaetozone setosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Cirratulus cirratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Cirriformia tentaculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Ctenodrilus serratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Dodecaceria concharum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Kirkegaardia serrata	Caulleriella serrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Tharyx killariensis	Caulleriella killariensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Cossura longocirrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Brada inhabilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Bradabyssa villosa	Brada villosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Diplocirrus glaucus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Flabelligera affinis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lamispina falcata	Pherusa falcata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pherusa plumosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Therochaeta flabellata	Pherusa flabellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Magelona alleni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Magelona minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Magelona mirabilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Chirimia biceps	Asychis biceps	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Clymenella cincta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Clymenura borealis	Leiochone borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Euclymene droebachiensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Euclymene lindrothi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Heteroclymene robusta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Isocirrus planiceps	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lumbriclymene cylindricauda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lumbriclymene minor	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Maldane sarsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Microclymene acirrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nicomache lumbricalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nicomache personata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Nicomache trispinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Petaloproctus borealis	Petaloproctus tenuis subsp. borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Praxillella affinis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Praxillella praetermissa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Praxillura longissima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Proclymene muelleri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pseudoclymene quadrilobata	Praxillella quadrilobata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Rhodine gracilior	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Rhodine loveni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Melinna cristata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Meganerilla swedmarki	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Mesonerilla fagei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nerilla antennata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nerillidium gracile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nerillidium marinum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nerillidium troglochaetoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Paranerilla limicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Psammoriedlia heptapous	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Thalassochaetus palpifoliaceus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophelia borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophelia rathkei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophelina abranchiata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophelina acuminata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Ophelina cylindricaudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophelina modesta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Ophelina norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Thoracophelia flabellifera	Euzonus flabelligerus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Naineris quadricuspida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Orbinia latreillii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Orbinia sertulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Phylo kupfferi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Phylo norvegicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Scoloplos armiger	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Aricidea cerrutii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aricidea minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aricidea suecica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Levinsenia gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Paradoneis armata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Paradoneis eliasoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Paradoneis lyra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Paraonis fulgens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Stygocapitella subterranea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Amphictene auricoma	Pectinaria auricoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lagis koreni	Pectinaria koreni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pectinaria belgica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Petta pusilla	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Poecilochaetus serpens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Polygordius appendiculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Polygordius lacteus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Claudrilus helgolandicus	Protodrilus helgolandicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Claudrilus hypoleucus	Protodrilus hypoleucus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lindrilus rubropharyngeus	Protodrilus rubropharyngeus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Megadrilus purpureus	Protodrilus purpureus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Meiodrilus adhaerens	Protodrilus adhaerens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Meiodrilus gracilis	Protodrilus gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protodrilus affinis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protodrilus ciliatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protodrilus hatscheki	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protodrilus oculifer	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protodrilus robustus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protodriloides chaetifer	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Protodriloides symbioticus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Psammodrilus balanoglossoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lipobranchius jeffreysii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Polyphysia crassa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Scalibregma inflatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Spinther arcticus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aonides oxycephala	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aonides paucibranchiata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Atherospio guillei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Aurospio banyulensis	Prionospio ockelmanni	 Prionospio banyulensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Boccardiella ligerica	Boccardia redeki	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Dipolydora caulleryi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Dipolydora coeca	Polydora caeca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Dipolydora flava	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Dipolydora quadrilobata	Polydora quadrilobata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Laonice bahusiensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Malacoceros fuliginosus	Malacoceros vulgaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Malacoceros tetracerus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Marenzelleria neglecta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Marenzelleria viridis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Marenzelleria wireni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Microspio mecznikowiana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Microspio mecznikowianus	x	-	
+Annelida	Polydora ciliata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Polydora cornuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Polydora hermaphroditica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Polydora limicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Prionospio cirrifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Prionospio dubia	Prionospio steenstrupi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Prionospio fallax	Prionospio malmgreni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Prionospio multibranchiata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Prionospio plumosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pseudopolydora antennata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pseudopolydora pulchra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Pygospio elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Scolelepis bonnieri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Scolelepis cantabra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Scolelepis foliosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Scolelepis squamata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Scolelepis tridentata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spio armata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spio arndti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spio goniocephala	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spio symphyta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Spiophanes bombyx	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Spiophanes kroyeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Streblospio shrubsolii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Amaeana trilobata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Amphitrite cirrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Amphitritides gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Artacama proboscidea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eupolymnia nebulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Eupolymnia nesidensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Hauchiella tribullata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Lanassa venusta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lanice conchilega	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Lysilla loveni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Neoamphitrite affinis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Neoamphitrite figulus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Neoamphitrite grayi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nicolea venustula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Nicolea zostericola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pista cristata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pista lornensis	Scionella lornensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Pista maculata	Axionice maculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Polycirrus arcticus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Polycirrus latidens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Polycirrus medusa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Polycirrus norvegicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Polycirrus plumosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Proclea graffii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Streblosoma bairdi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Streblosoma intestinale	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Thelepus cincinnatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Travisia forbesii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Terebellides stroemii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Trichobranchus glacialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Annelida	Trichobranchus roseus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Annelida	Trochochaeta multisetosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Zygoribatula frisiae	NA	NA	NA	NA	NA	NA	NA	NA	Oribatula frisiae	NA	NA	x	-	
+Arthropoda	Bosmina coregoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Bosmina longirostris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bythotrephes longimanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Acroperus harpae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Alona quadrangularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Chydorus sphaericus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Graptoleberis testudinaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ceriodaphnia reticulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Daphnia cucullata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Daphnia hyalina	Daphnia pellucida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Holopedium gibberum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Evadne nordmanni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Evadne spinifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pleopis polyphemoides	Podon polyphemoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	Pleopis polyphaemoides	x	x	
+Arthropoda	Podon intermedius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Podon leuckartii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Diaphanosoma brachyurum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Penilia avirostris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Acartia bifilosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Acartia clausi	NA	NA	NA	NA	NA	NA	NA	NA	NA	Acartia clausii	NA	x	x	
+Arthropoda	Acartia discaudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Acartia longiremis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Acartia tonsa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Calanus finmarchicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Centropages hamatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Centropages typicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Isias clavipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pseudocalanus minutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Paracalanus parvus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Parapontella brevicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Anomalocera patersonii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Anomalocera patersoni	x	x	
+Arthropoda	Eurytemora affinis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eurytemora laciniata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eurytemora lacinulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eurytemora lacustris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eurytemora velox	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Temora longicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Canuella furcigera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ascidicola rosea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Acanthochondria cornuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Acanthochondria limandae	Chondracanthus limandae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Acanthochondria soleae	Chondracanthus soleae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Chondracanthus lophii	Chondracanthus gibbosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Chondracanthus nodosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Chondracanthus ornatus	Disphaerocephalus ornatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lernentoma asellina	Medesicaste asellinum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Chordeumium obesum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ergasilus gibbus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Herpyllobius polynoes	Silenium polynoes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lamippe proteus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lichomolgus albens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Mytilicola intestinalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Selius bilobus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Notodelphys allmani	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Notodelphys caerulea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Notodelphys elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Oithona similis	Oithona helgolandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Sabelliphilus elongatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Melinnacheres terebellidis	Saccopsis terebellidis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lomanoticola brevipes	Splanchnotrophus brevipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Aphanodomus terebellae	Crypsidomus terebellae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ectinosoma edwardsi	NA	NA	NA	NA	NA	NA	NA	NA	Bradya edwardsi	NA	NA	x	-	
+Arthropoda	Thalestris longimana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Asterocheres lilljeborgi	Asterocheres asterocheres	 Ascomyzon asterocheres	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Caligus belones	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Caligus curtus	Caligus fallax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Caligus diaphanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Caligus elongatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Caligus gurnardi	Caligus angustatus	 Caligus nanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lepeophtheirus crabro	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lepeophtheirus hippoglossi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lepeophtheirus nordmannii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Lepeophtheirus nordmanni	x	-	
+Arthropoda	Lepeophtheirus pectoralis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lepeophtheirus pollachius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lepeophtheirus salmonis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Lepeophtheirus thompsoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Cancerilla tubulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Anthosoma crassum	Anthosoma smithi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dichelesthium oblongum	Dichelesthium sturionis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eudactylina acuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Charopinus dalmanni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Clavella adunca	Clavella dubia	 Clavella uncinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Clavella stellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Clavellisa emarginata	Clavella ovalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	Clavella emarginata	x	-	
+Arthropoda	Clavellodes rugosus	Clavella rugosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lernaeopoda galei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lernaeopodina longimana	Lernaeopoda longimana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Parabrachiella bispinosa	Brachiella obesa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Parabrachiella rostrata	Brachiella rostrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pseudocharopinus bicaudatus	Charopinus bicaudatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Salmincola salmonea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Salmincola salmoneus	x	-	
+Arthropoda	Schistobrachia ramosa	Charopinus ramosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Vanbenedenia kroeyeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Homoeoscelis minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nicothoe astaci	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Rhizorhina ampeliscae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella amphilochi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella atyli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella danica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella dispar	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella frontalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella giardii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella insignis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella irregularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella leuckarti	Sphaeronella elegantula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella longipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella marginata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella microcephala	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella modesta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella paradoxa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sphaeronella vestita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Cecrops latreillii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dinemoura producta	Dinematura producta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Echthrogaleus coleoptratus	Echthrogaleus perspicax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pandarus bicolor	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Haemobaphes ambiguus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lernaeenicus encrasicholi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lernaeenicus sprattae	Lernaeonema monilaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Lernaeocera branchialis	Lernaea branchialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Scottomyzon gibberum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Trebius caudatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Acanthonotozoma serratum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Acidostoma laticorne	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Acidostoma laticornis	x	-	
+Arthropoda	Acidostoma obesum	Acidostoma nodiferum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Amathillopsis spinigera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ambasia atlantica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ampelisca brevicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ampelisca diadema	Ampelisca assimilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ampelisca gibba	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ampelisca macrocephala	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ampelisca pusilla	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ampelisca spinipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ampelisca tenuicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ampelisca typica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Byblis gaimardii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Haploops setosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Haploops tenuis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Haploops tubicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Amphilochoides boecki	Amphilochoides odontonyx	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Amphilochoides serratipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Amphilochus manudens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gitana rostrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Gitana sarsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ampithoe rubricata	Ampithoe podoceroides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Aora typica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Autonoe longipes	Lembos longipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lembos websteri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Microdeutopus anomalus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Microdeutopus gryllotalpa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Argissa hamatipes	Argissa typica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Aristias neglectus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Perrierella audouiniana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nototropis falcatus	Atylus falcatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nototropis swammerdamei	Atylus swammerdami	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Nototropis vedlomensis	Atylus vedlomensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bathyporeia elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bathyporeia guilliamsoniana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Bathyporeia pelagica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bathyporeia pilosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bathyporeia sarsi	Bathyporeia robertsoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Apherusa bispinosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Apherusa clevei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Apherusa jurinei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Apherusa ovalipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Calliopius laeviusculus	Calliopius rathkei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Calliopius rathkii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Halirages fulvocinctus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Aeginina longicornis	Aeginina echinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Caprella ciliata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Caprella linearis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Caprella mutica	Caprella macho	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Caprella septentrionalis	Caprella monocera	 Caprella punctata	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pariambus typicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Phtisica marina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pseudoprotella phasma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cheirocratus assimilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cheirocratus intermedius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cheirocratus robustus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Cheirocratus sundevallii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Cheirocratus sundevalli	x	x	
+Arthropoda	Corophium volutator	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Crassicorophium bonellii	Corophium bonnellii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Crassicorophium crassicorne	Corophium crassicorne	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leptocheirus hirsutimanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Leptocheirus pilosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Medicorophium affine	Corophium affine	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Monocorophium insidiosum	Corophium insidiosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Protomedeia fasciata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Cressa dubia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Platycyamus thompsoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dexamine spinosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Dexamine thea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Tritaeta gibbosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dulichia falcata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Dulichia tuberculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dulichiopsis nordlandica	Dulichia nordlandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dyopedos monacanthus	Dulichia monacantha	NA	NA	NA	NA	NA	NA	NA	NA	NA	Dyopedos monacantha	x	-	
+Arthropoda	Dyopedos porrectus	Dulichia porrectus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Epimeria cornigera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eriopisa elongata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eusirus longipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Rhachotropis helleri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Rhachotropis inflata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Rhachotropis leucophthalma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Rhachotropis macropus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammarellus angulosus	Amathilla angulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammarellus homari	Amathilla homari	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Echinogammarus marinus	Gammarus marinus	 Chaetogammarus marinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammarus duebeni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammarus insensibilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Gammarus locusta	Gammarellus locusta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammarus oceanicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammarus salinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammarus tigrinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammarus zaddachi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Haustorius arenarius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Apohyale prevostii	Hyale prevosti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Hyale pontica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Hyperia galba	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Hyperia medusarum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hyperoche medusarum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Themisto abyssorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Iphimedia minuta	Panoploea minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Iphimedia obesa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Centraloecetes kroyeranus	Siphonoecetes kroyeranus	 Siphonoecetes colletti	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ericthonius difformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ericthonius punctatus	Ericthonius brasiliensis	 Ericthonius abditus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ericthonius rubricornis	Ericthonius hunteri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ischyrocerus anguipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ischyrocerus megacheir	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Jassa falcata	Jassa pulchella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Jassa pusilla	Jassa dentex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Notopoma crassicornis	Cerapus crassicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Parajassa pelagica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Plumulojassa ocia	Jassa ocia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lafystius sturionis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leucothoe lilljeborgi	Leucothoe imparicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leucothoe spinicarpa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Liljeborgia fissicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Maera loveni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Othomaera othonis	Maera othonis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Megaluropus agilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Abludomelita obtusata	Melita obtusata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Dulichiella appendiculata	Melita dentata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Melita palmata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Melphidippella macra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Microprotopus maculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Odius carinatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Arrhis phyllonyx	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bathymedon longimanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bathymedon obtusifrons	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bathymedon saussurei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Deflexilodes norvegicus	Monoculodes norvegicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Kroyera carinata	Monoculodes carinatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Monoculodes packardi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Perioculodes longimanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pontocrates altamarinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pontocrates arenarius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Synchelidium haplocheles	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Synchelidium tenuimanum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Westwoodilla caecula	Westwoodilla hyalina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Normanion quadrimanus	Normanion sarsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Opisa eschrichtii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Halice abyssi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pardalisca tenuipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pardaliscella boecki	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Gammaropsis maculata	Eurystheus erythropthalmus	 Gammaropsis erythrophthalma	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gammaropsis melanops	Eurystheus melanops	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Gammaropsis nitida	Podoceropsis nitida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Megamphopus cornutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Photis longicaudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Photis reinhardi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Harpinia antennaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Harpinia crenulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Harpinia laevis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Harpinia pectinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Harpinia truncata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leptophoxus falcatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Paraphoxus oculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Phoxocephalus holbolli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Phoxocephalus holboelli	x	x	
+Arthropoda	Parapleustes bicuspis	Neopleustes bicuspis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Parapleustes monocuspis	Neopleustes monocuspis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pleusymtes glaber	Sympleustes glaber	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Stenopleustes latipes	Sympleustes latipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Stenopleustes nodifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Laetmatophilus tuberculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Xenodice frauenfeldti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pontoporeia femorata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Scina borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Scopelocheirus hopei	Scopelocheirus crenatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Andaniexis abyssi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Andaniopsis nordlandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Stegocephaloides auratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Stegocephaloides christianiensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Stegocephalus inflatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Stegocephalus similis	Phippsiella similis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hardametopa nasuta	Metopella nasuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Metopa alderi	Metopa spectabilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Metopa borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Metopa bruzelii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Metopa norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Metopa propinqua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Metopa pusilla	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Metopa quadrangula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Metopa robusta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Metopa rubrovittata	Stenula rubrovittata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Proboloides calcarata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Proboloides gregaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Stenothoe marina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Stenothoe monoculoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Stenula solsbergi	Metopa solsbergi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Astyra abyssi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Syrrhoe crenulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Syrrhoites serrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tiron spiniferus	Tiron acanthurus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Britorchestia brito	Talorchestia brito	 Orchestoidea brito	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Deshayesorchestia deshayesii	Talorchestia deshayesi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Orchestia gammarellus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Platorchestia platensis	Orchestia platensis	 Australitroides platensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Talitrus saltator	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Trischizostoma raschii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Trischizostoma raschi	x	-	
+Arthropoda	Hippomedon denticulatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hippomedon propinqvus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Hippomedon propinquus	x	x	
+Arthropoda	Hippomedon robustus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lepidepecreum longicorne	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Lepidepecreum longicornis	x	-	
+Arthropoda	Orchomene humilis	Orchomene batei	 Acheronia hanseni	NA	NA	NA	NA	NA	NA	NA	NA	Orchomene hanseni	x	x	
+Arthropoda	Orchomene serratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Orchomenella minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Orchomenella obtusa	Acheronia obtusa	 Orchomene obtusa	 Orchomenopsis obtusus	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Tryphosa nana	Orchomenella nana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Tryphosella horingi	Tryphosa horringi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tryphosella nanoides	Tryphosa nanoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tryphosella sarsi	Tryphosa sarsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tryphosella umbonatus	Pseudotryphosa umbonatus	 Uristes umbonatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tryphosites longipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Neohela monstrosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Unciola planipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Anonyx sarsi	Anonyx nugax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Caeconyx caeculus	Tmetonyx caeculus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Centromedon pumilus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Menigrates obtusifrons	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Menigratopsis svennilssoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Onisimus edwardsii	Boeckosimus edwardsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	Onisimus edwardsi	x	-	
+Arthropoda	Onisimus normani	Boeckosimus normani	 Corophium acherusicum	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tmetonyx acutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tmetonyx cicada	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Tmetonyx leucophthalmus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tmetonyx similis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Urothoe elegans	Urothoe norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Urothoe poseidonis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bodotria pulchella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Bodotria scorpioides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cumopsis goodsir	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Iphinoe trispinosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Brachydiastylis resima	Diastylopsis resima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastylis bradyi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Diastylis cornuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastylis echinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastylis laevis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Diastylis lucifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastylis rathkei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Diastylis rostrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastylis rugosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastylis spinosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastylis tumida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastyloides biplicatus	Diastylis biplicata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Diastyloides serratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leptostylis ampullacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leptostylis longimana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leptostylis villosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hemilamprops cristatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hemilamprops roseus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lamprops fasciatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eudorella emarginata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eudorella hirsuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eudorella truncatula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eudorellopsis deformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leucon acutirostris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leucon nasica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Leucon nasicoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leucon pallidus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Campylaspis costata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Campylaspis rubicunda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Campylaspis sulcata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Campylaspis verrucosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pseudocuma longicorne	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Pseudocuma longicornis	x	-	
+Arthropoda	Pseudocuma simile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Athanas nitescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Calocarides coronatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Calocaris macandreae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cryptocheles pygmaea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Callianassa subterranea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Gilvossius tyrrhenus	Pestarella tyrrhena	 Callianassa tyrrhena	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cancer pagurus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Carcinus maenas	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Corystes cassivelaunus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Crangon allmanni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Crangon crangon	Crangon vulgaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pontophilus norvegicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pontophilus spinosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Sabinea sarsii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Dromia personata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Galathea intermedia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Galathea nexa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Galathea squamifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Galathea strigosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Geryon trispinosus	Geryon tridens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Goneplax rhomboides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pachygrapsus transversus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Caridion gordoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eualus cranchii	Spirontocaris cranchi	 Hippolyte cranchii	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eualus gaimardii	Spirontocaris gaimardi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eualus occultus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eualus pusiolus	Spirontocaris pusiola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Hippolyte varians	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Spirontocaris liljeborgii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Spirontocaris spinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Paromola cuvieri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Inachus dorsettensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Inachus phalangium	Inachus dorhynchus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Macropodia rostrata	Stenorhynchus rostratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ebalia cranchii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ebalia tuberosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ebalia tumefacta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Lithodes maja	Lithodes arctica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eurynome aspera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Munida intermedia	Munida tenuimana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Munida rugosa	Munida bamffica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Munida sarsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Homarus americanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Homarus gammarus	Homarus vulgaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Nephrops norvegicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Hyas araneus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Hyas coarctatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Anapagurus chiroacanthus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Anapagurus laevis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pagurus bernhardus	Eupagurus bernhardus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pagurus pubescens	Eupagurus pubescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Palaemon adspersus	Palaemon fabricii	 Palaemon squilla	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Palaemon elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Palaemon serratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Palaemon varians	Palaemonetes varians	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Palinurus elephas	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Atlantopandalus propinqvus	Pandalus propinqvus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pandalina brevirostris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pandalus borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pandalus montagui	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Rhithropanopeus harrisii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pasiphaea sivado	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pasiphaea tarda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pilumnus hirtellus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pinnotheres pisum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pirimela denticulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Liocarcinus depurator	Portunus depurator	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Liocarcinus holsatus	Portunus holsatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Liocarcinus navigator	Macropipus arcuatus	 Portunus arcuatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Liocarcinus pusillus	Portunus pusillus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Necora puber	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pisidia longicornis	Porcelana longicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Callinectes sapidus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Processa canaliculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Processa edulis	Nika edulis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Upogebia deltaura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Upogebia stellata	Gebia stellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eriocheir sinensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Hemigrapsus sanguineus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Hemigrapsus takanoi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Xantho poressa	Xantho rivulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Meganyctiphanes norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Nyctiphanes couchii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Thysanoessa inermis	Rhoda inermis	 Thysanoessa neglecta	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Thysanoessa longicaudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Thysanoessa raschii	Rhoda raschii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Aega bicarinata	Aega stroemii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Aega crenulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Aega monophthalma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Aega psora	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Aega tridens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Rocinela danmoniensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Syscenus infelix	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Anthura gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cyathura carinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Astacilla dilatata	Arcturella dilatata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Astacilla longicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Athelges bilobus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Athelges paguri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Athelges tenuicaudis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Bopyroides hippolytes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Bopyrus squillarum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eremitione hyndmanni	Pseudione hyndmanni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Gyge branchialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hemiarthrus abdominalis	Phryxus abdominalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pleurocrypta galateae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pseudione borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pseudione crenulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Clypeoniscus hanseni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Munnoniscus marsupialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Saduria entomon	Mesidotea entomon	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eurydice pulchra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Natatolana borealis	Cirolana borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Liriopsis pygmaea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Glossobius impressus	Ceratothoa impressa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Cyproniscus cypridinae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Prodajus ostendensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dendrotion spinosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Desmosoma lineare	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Echinopleura aculeata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eugerda filipes	Desmosoma filipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eugerda intermedia	Desmosoma intermedium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eugerda tenuimana	Desmosoma tenuimanum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eugerdella coarctata	Desmosoma coarctum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Whoia angusta	Desmosoma angustum	 Desmosoma armatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Portunion maenadis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Gnathia oxyuraea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Batedotea elongata	Idotea elongata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Idotea balthica	Idotea tricuspidata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Idotea chelipes	Idotea viridis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Idotea emarginata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Idotea granulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Idotea linearis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Idotea neglecta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Idotea pelagica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ischnomesus bispinosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ianiropsis breviremis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Jaera albifrons	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Janira maculosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Leptanthura tenuis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ligia oceanica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Limnoria lignorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Macrostylis longiremis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Macrostylis spinifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Munna boeckii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Munna fabricii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Munna limicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Uromunna petiti	Munna minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Baeonectes muticus	Eurycope mutica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Disconectes furcatus	Eurycope furcata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Disconectes phalangium	Eurycope phallangium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eurycope cornuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Eurycope producta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Ilyarachna longicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Munnopsis typica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pseudarachna hirsuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Paramunna bilobata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pleurogonium inerme	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pleurogonium pulchrum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pleurogonium rubicundum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pleurogonium spinosissimum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lekanesphaera hookeri	Sphaeroma hookeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Lekanesphaera rugicauda	Sphaeroma rugicauda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Nebalia bipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Amblyops abbreviatus	NA	NA	NA	NA	NA	NA	NA	NA	Amblyops abbreviata	NA	NA	x	-	
+Arthropoda	Boreomysis arctica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Erythrops abyssorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Erythrops elegans	Erythrops pygmaea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Erythrops erythrophthalmus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Erythrops erythrophthalma	x	-	
+Arthropoda	Erythrops serratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Erythrops serrata	x	-	
+Arthropoda	Gastrosaccus spinifer	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hemimysis abyssicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hemimysis lamornae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Heteromysis formosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Leptomysis gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Mesopodopsis slabberi	Macropsis slabberi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Mysideis insignis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Mysidopsis angusta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Mysidopsis didelphys	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Mysidopsis gibbosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Mysis mixta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Mysis oculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Mysis salemaai	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Neomysis integer	Mysis vulgaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Parerythrops obesus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Parerythrops obesa	x	-	
+Arthropoda	Praunus flexuosus	Mysis flexuosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Praunus inermis	Mysis inermis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Praunus neglectus	Mysis neglecta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pseudomma affine	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pseudomma roseum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Schistomysis ornata	Mysis ornata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Schistomysis spiritus	Mysis spiritus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Siriella norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hansenomysis fyllae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Akanthophoreus gracilis	Leptognathia gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Parakanthophoreus longiremis	Leptognathia longiremis	 Akanthophoreus longiremis	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tumidochelia dentifera	Leptognathia dentifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Anarthrura simplex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Apseudes spinosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cryptocope abbreviata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Heterotanais oerstedii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leptognathia breviremis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pseudotanais forcipatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pseudosphyrapus anomalus	Sphyrapus anomalus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Araphura brevimanus	Leptognathia brevimana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Araphura filiformis	Leptognathia filiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tanais dulongii	Tanais cavolinii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Tanaissus danica	Leptochelia danica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tanaissus lilljeborgi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Tanaopsis laticaudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Typhlotanais aequiremis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Typhlotanais tenuicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Clistosaccus paguri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Sylon hippolytes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Trypetesa lampas	Alcippe lampas	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ulophysema oeresundense	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lernaeodiscus ingolfi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Peltogaster curvata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Peltogaster curvatus	x	-	
+Arthropoda	Peltogaster paguri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Peltogasterella sulcata	Gemmosaccus sulcatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	Peltogastrella sulcata	x	-	
+Arthropoda	Tortugaster boschmai	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Triangulus galatheae	Lernaeodiscus galatheae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Drepanorchis neglecta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Sacculina carcini	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Sacculina inflata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Anelasma squalicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Conchoderma auritum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Conchoderma virgatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dosima fascicularis	Lepas fascicularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Dosinia exoleta	Furet dosinia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Dosinia lupinus	Dosinia lincta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lepas anatifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Lepas anserifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Lepas hilli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Lepas pectinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Ornatoscalpellum stroemii	Scalpellum stroemii	NA	NA	NA	NA	NA	NA	NA	Weltnerium stroemii	NA	NA	x	x	
+Arthropoda	Scalpellum scalpellum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Chirona hameri	Balanus hameri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Semibalanus balanoides	Balanus balanoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Amphibalanus improvisus	Balanus improvisus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Austromegabalanus nigrescens	Balanus nigrescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Balanus balanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Balanus crenatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Megabalanus tintinnabulum	Balanus tintinnabulum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Chthamalus stellatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Coronula reginae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Verruca stroemia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Boroecia borealis	Conchoecia borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Discoconchoecia elegans	Conchoecia elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Vargula norvegica	Cypridina norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Candona candida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Cyclocypris ovum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Cyprinotus salinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Cytherura acuta	Cytherura nigrescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hemicytherura cellulosa	Cytherura cellulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hemicythere villosa	Cythereis villosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Leptocythere castanea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Hirschmannia viridis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Loxoconcha rhomboidea	Loxoconcha impressa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Boreostoma variabile	Paradoxostoma variabile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Cytherois fischeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Xestoleberis aurantia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Achelia echinata	Ammothea echinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Eurycyde hispida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Callipallene brevirostris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Pseudopallene circularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nymphon brevirostre	Nymphon rubrum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nymphon grossipes	Nymphon mixtum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nymphon hirtum	Chaetonymphon hirtum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nymphon leptocheles	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nymphon macrum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Nymphon stroemi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Nymphon tenellum	Chaetonymphon spinosissimum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Anoplodactylus petiolatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Phoxichilidium femoratum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Arthropoda	Pycnogonum litorale	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Arthropoda	Austrominius modestus	Elminius modestus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Brachiopoda	Novocrania anomala	Crania anomala	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Aetea anguina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Aetea sica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Aetea truncata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Beania mirabilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Schizomavella auriculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Schizomavella linearis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Palmiskenea skenei	Palmicellaria skenei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Porella compressa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Porella laevis	Porelloides leavis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Porella patula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Porella struma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Bicellariella ciliata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Bugulina angustiloba	Bugula flabellata	 Bugula angustiloba	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Bugulina avicularia	Bugula avicularia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Bugulopsis peachii	Tricellaria peachii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Crisularia plumosa	Bugula plumosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Crisularia purpurotincta	Bugula purpurotincta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Dendrobeania murrayana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Kinetoskias smitti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Alderina imbellis	Membranipora imbellis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Amphiblestrum auritum	Membranipora aurita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Amphiblestrum flemingii	Membranipora flemingii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Amphiblestrum trifolium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Callopora craticula	Membranipora craticula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Callopora dumerilii	Membranipora dumerilii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Callopora lineata	Membranipora lineata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Tegella unicornis	Membranipora unicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Aquiloniella scabra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Caberea ellisii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Cradoscrupocellaria reptans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Scrupocellaria scrupea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Scrupocellaria scruposa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Tricellaria ternata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Cellaria salicornia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Buskea dichotoma	Cellepora dichotoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Cellepora pumicosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Celleporina costazii	Siniopelta costazii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Omalosecosa ramulosa	Cellepora ramulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Turbicellepora avicularis	Cellepora avicularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Chorizopora brongniartii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Cribrilaria radiata	Colletosia radiata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Cribrilina cryptooecium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Cribrilina punctata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Juxtacribrilina annulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Membraniporella nitida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Cryptosula pallasiana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Aspidelectra melolontha	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Conopeum reticulum	Membranipora reticulum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Conopeum seurati	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Einhornia crustulenta	Membranipora crustulenta	 Electra crustulenta	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Electra monostachys	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Electra pilosa	Membranipora pilosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Escharella abyssicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Escharella immersa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Escharella variolosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Escharella ventricosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Escharina alderi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Phaeostachys spinifera	Escharina spinifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Eucratea loricata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Escharoides coccinea	Peristomella coccinea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Stomacrustula sinuosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Fenestrulina malusii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Carbasea carbasea	Flustra carbasea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Flustra foliacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Securiflustra securifrons	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Hippoporella hippopus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Celleporella hyalina	Hippothoa hyalina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Haplota clavata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Biflustra tenuis	Membranipora tenuis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Membranipora membranacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Bryozoa	Microporella ciliata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Reteporella beaniana	Sertella beanniana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Arctonula arctica	Discopora arctica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Schizoporella obesa	Porella concinna	 Porella obesa	 Hippodiplosia obesa	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Schizoporella unicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Scruparia chelata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Parasmittina trispinosa	Smittina trispinosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Smittina bella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Smittina landsborovii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Smittoidea reticulata	Smittina reticulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Tessaradoma boreale	Tessaradoma gracile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Alcyonidium albidum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Alcyonidium diaphanum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Alcyonidium gelatinosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Alcyonidium hirsutum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Alcyonidium mamillatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Alcyonidium parasiticum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Alcyonidium polyoum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Arachnidium fibrosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Buskia nitens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Farrella repens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Flustrellidra hispida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Hypophorella expansa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Nolella dilatata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Nolella gigantea	Nolella stipata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Triticella flava	Triticella korenii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Triticella pedicellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Amathia gracilis	Bowerbankia caudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Amathia imbricata	Bowerbankia imbricata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Amathia pustulosa	Bowerbankia pustulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Walkeria uva	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Crisia aculeata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Crisia denticulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Crisia eburnea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Crisia ramosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Crisidia cornuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Crisiella producta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Hornera lichenoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Disporella hispida	Lichenopora hispida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Patinella verrucaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Oncousoecia dilatans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Diplosolen obelium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Diplosolen obelia	x	-	
+Bryozoa	Plagioecia patina	Berenicea patina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Stigmatoechos violacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Exidmonea atlantica	Idmonea atlantica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Penciletta penicillata	Tubulipora penicillata	NA	NA	NA	NA	NA	NA	NA	Pencilletta penicillata	NA	NA	x	-	
+Bryozoa	Tubulipora aperta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Tubulipora flabellaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Tubulipora liliacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Tubulipora lobulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Tubulipora phalangea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Bryozoa	Tubulipora plumosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chaetognatha	Parasagitta elegans	Sagitta elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chaetognatha	Parasagitta setosa	Sagitta setosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Acipenser gueldenstaedtii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Acipenser naccarii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Acipenser oxyrinchus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Acipenser stellatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Acipenser sturio	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Acipenser transmontanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Huso huso	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Anguilla anguilla	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Conger conger	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Nemichthys scolopaceus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Atherina presbyter	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Magnisudis atlantica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Belone belone	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Cheilopogon heterurus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Scomberesox saurus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Beryx decadactylus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Alosa alosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Alosa fallax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Clupea harengus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Sardina pilchardus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Sprattus sprattus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Engraulis encrasicolus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Gadiculus thori	Gadiculus argenteus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Gadus morhua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Melanogrammus aeglefinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Merlangius merlangus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Micromesistius poutassou	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pollachius pollachius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pollachius virens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Raniceps raninus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trisopterus esmarkii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trisopterus luscus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trisopterus minutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Brosme brosme	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Ciliata mustela	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Enchelyopus cimbrius	Rhinonemus cimbrius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Gaidropsarus vulgaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Molva dypterygia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Molva molva	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Coryphaenoides rupestris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Malacocephalus laevis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Merluccius merluccius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Phycis blennoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Gasterosteus aculeatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pungitius pungitius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Spinachia spinachia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lampris guttatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Regalecus glesne	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trachipterus arcticus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lophius budegassa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lophius piscatorius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Chelon auratus	Liza aurata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Chelon labrosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Chelon ramada	Liza ramada	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Myctophum punctatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Notoscopelus kroyeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Notoscopelus kroeyeri	x	-	
+Chordata	Argentina silus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Argentina sphyraena	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Osmerus eperlanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Ammodytes marinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Ammodytes tobianus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Gymnammodytes semisquamatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Hyperoplus lanceolatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Anarhichas denticulatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Anarhichas lupus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Brama brama	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Callionymus lyra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Callionymus maculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Callionymus reticulatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Capros aper	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trachinotus ovatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trachurus trachurus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Centrolophus niger	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Schedophilus medusophagus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Remora remora	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Nesiarchus nasutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Aphia minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Buenia jeffreysii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Crystallogobius linearis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Gobius niger	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lebetus guilleti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Lebetus scorpioides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lesueurigobius friesii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Lesueurigobius friesi	x	x	
+Chordata	Neogobius melanostomus	Gobius melanostomus	 Gobius affinis	 Gobius cephalarges	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pomatoschistus flavescens	Gobiusculus flavescens	NA	NA	NA	NA	NA	NA	NA	Gobiusculus flavescens	NA	NA	x	x	
+Chordata	Pomatoschistus microps	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pomatoschistus minutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pomatoschistus norvegicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pomatoschistus pictus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Thorogobius ephippiatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Centrolabrus exoletus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Coris julis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Ctenolabrus rupestris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Labrus bergylta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Labrus mixtus	Labrus bimaculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Symphodus melops	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Dicentrarchus labrax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Mullus surmuletus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pholis gunnellus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Polyprion americanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Micropogonias undulatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Auxis rochei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Euthynnus alletteratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Sarda sarda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Scomber scombrus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Thunnus thynnus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Boops boops	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Dentex maroccanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Diplodus sargus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pagellus acarne	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pagellus bogaraveo	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pagellus erythrinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Sarpa salpa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Sparus aurata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Spondyliosoma cantharus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Chirolophis ascanii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Leptoclinus maculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lumpenus lampretaeformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Echiichthys vipera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trachinus draco	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Xiphias gladius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lycenchelys sarsii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lycodes gracilis	Lycodes vahli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Zoarces viviparus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Arnoglossus laterna	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Glyptocephalus cynoglossus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Hippoglossoides platessoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Hippoglossus hippoglossus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Limanda limanda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Microstomus kitt	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Platichthys flesus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pleuronectes platessa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lepidorhombus whiffiagonis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Scophthalmus maximus	Psetta maxima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Scophthalmus rhombus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Zeugopterus norvegicus	Phrynorhombus norvegicus	NA	NA	NA	NA	NA	NA	NA	Phrynorhombus norvegicus	NA	NA	x	x	
+Chordata	Zeugopterus punctatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Buglossidium luteum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Solea solea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Coregonus albula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Coregonus maraena	Coregonus lavaretus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Oncorhynchus gorbuscha	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Oncorhynchus mykiss	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Salmo salar	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Salmo trutta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Salvelinus alpinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Salvelinus fontinalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Agonus cataphractus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Micrenophrys lilljeborgii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Myoxocephalus scorpius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Taurulus bubalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Triglops murrayi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Cyclopterus lumpus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Liparis liparis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Liparis montagui	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Helicolenus dactylopterus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Sebastes norvegicus	Sebastes marinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Sebastes viviparus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Chelidonichthys cuculus	Aspitrigla cuculus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Chelidonichthys lucerna	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Eutrigla gurnardus	Chelidonichthys gurnardus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trigla lyra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Argyropelecus olfersii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Maurolicus muelleri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Macroramphosus scolopax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Macrorhamphosus scolopax	x	x	
+Chordata	Entelurus aequoreus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Hippocampus guttulatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Hippocampus hippocampus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Nerophis lumbriciformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Nerophis ophidion	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Syngnathus acus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Syngnathus rostellatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Syngnathus typhle	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Balistes capriscus	Balistes carolinensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Mola mola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Zeus faber	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Fritillaria borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Oikopleura dioica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Oikopleura labradoriensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Clavelina lepadiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Didemnum helgolandicum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Diplosoma listerianum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Trididemnum tenerum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Polyclinum aurantium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Synoicum pulmonaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Ascidia callosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Ascidia conchilega	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Ascidia mentula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Ascidia obliqua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Ascidia prunum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Ascidia virginea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Ascidiella aspersa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Ascidiella scabra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Ciona intestinalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Corella parallelogramma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Eugyra arenosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Molgula citrina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Molgula complanata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Molgula kiaeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Molgula manhattensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Molgula occulta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Boltenia echinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pyura tessellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Botrylloides leachii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Botryllus schlosseri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Cnemidocarpa mollispina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Dendrodoa grossularia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Pelonaia corrugata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Polycarpa fibrosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Styela clava	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Styela coriacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Styela rustica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lampetra fluviatilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Petromyzon marinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Prionace glauca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Galeus melastomus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Scyliorhinus canicula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Scyliorhinus caniculus	x	x	
+Chordata	Galeorhinus galeus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Mustelus asterias	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Hexanchus griseus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Alopias vulpinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Cetorhinus maximus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lamna nasus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Dasyatis pastinaca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Myliobatis aquila	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Amblyraja radiata	Raja radiata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Dipturus batis	Raja batis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Dipturus intermedius	NA	NA	NA	NA	NA	NA	NA	NA	Dipturus batis	NA	NA	x	x	
+Chordata	Dipturus oxyrinchus	Raja oxyrinchus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Leucoraja naevus	Raja naevus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Raja brachyura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Raja clavata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Raja microocellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Raja montagui	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Rajella fyllae	Raja fyllae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Rajella lintea	Dipturus linteus	 Raja lintea	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Etmopterus spinax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Oxynotus centrina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Somniosus microcephalus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Squalus acanthias	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Squatina squatina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Tetronarce nobiliana	Torpedo nobiliana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Torpedo marmorata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Chimaera monstrosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Branchiostoma lanceolatum	Amphioxus lanceolatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Odobenus rosmarus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Cystophora cristata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Halichoerus grypus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pagophilus groenlandicus	Phoca groenlandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Phoca vitulina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pusa hispida	Phoca hispida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Eubalaena glacialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Balaenoptera acutorostrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Balaenoptera borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Balaenoptera edeni	Balaenoptera brydei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Balaenoptera physalus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Megaptera novaeangliae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Delphinus delphis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Feresa attenuata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Globicephala melas	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Grampus griseus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lagenorhynchus acutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Lagenorhynchus albirostris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Orcinus orca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Pseudorca crassidens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Stenella coeruleoalba	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Tursiops truncatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Hyperoodon ampullatus	Hyperoodon rostratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Mesoplodon bidens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Ziphius cavirostris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Delphinapterus leucas	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Monodon monoceros	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Phocoena phocoena	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Physeter macrocephalus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Myxine glutinosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Caretta caretta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Lepidochelys kempii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Chordata	Dermochelys coriacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Chordata	Salpa fusiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Bolocera tuediae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Urticina felina	Tealia felina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Actinostola callosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Stomphia coccinea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Diadumene lineata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Edwardsia andresi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Edwardsia danica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Edwardsia longicornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Edwardsia tuberculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Paraedwardsia arenaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Protanthea simplex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Halcampa duodecimcirrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Halcampoides purpureus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Anemonactis mazeli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Peachia hastata	Peachia boeckii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Actinauge richardi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Hormathia digitata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Metridium senile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cylista elegans	Sagartia elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Cylista lacerata	Sagartiogeton laceratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cylista troglodytes	Sagartia troglodytes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cylista undata	Sagartiogeton undatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cylista viduata	Sagartiogeton viduatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Alcyonium digitatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Anthothela grandiflora	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Isidella lofotensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Muriceides kükenthali	Trachymuricea kükenthali	NA	NA	NA	NA	NA	NA	NA	Muriceides kuekenthali	NA	NA	x	-	
+Cnidaria	Paramuricea placomus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Swiftia rosea	Stenogorgia rosea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Primnoa resedaeformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Balticina christii	Halipteris christii	 Pavonaria christii	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Balticina finmarchica	Pavonaria finmarchica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Funiculina quadrangularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Kophobelemnon stelliferum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Pennatula aculeata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Pennatula phosphorea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Protoptilum thomsoni	NA	NA	NA	NA	NA	NA	NA	NA	Protoptilum thomsonii	NA	NA	x	-	
+Cnidaria	Stylatula elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Virgularia mirabilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Virgularia tuberculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Caryophyllia smithii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Epizoanthus papillosus	Epizoanthus incrustatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Isozoanthus danicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Parazoanthus haddoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Arachnactis albida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cerianthus lloydii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Pachycerianthus multiplicatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Acaulis primarius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Bougainvillia britannica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Bougainvillia muscus	Bougainvillia ramosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Bougainvillia principis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Bougainvillia rugosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Bougainvillia superciliaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Dicoryne conferta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Bythotiara murrayi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cladonema radiatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Corymorpha nutans	Steenstrupia nutans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Euphysa aurata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Euphysa tentaculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Coryne pusilla	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Sarsia lovenii	Coryne lovenii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sarsia tubulosa	Coryne sarsi	 Sarsia sarsii	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Stauridiosarsia gemmifera	Dipurena gemmifera	 Sarsia gemmifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Eucodonium brownei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Eudendrium arbuscula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Eudendrium capillare	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Eudendrium rameum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Eudendrium ramosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Eudendrium unispirum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Clava multicornis	Clava squamata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Hydractinia echinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Podocoryna areolata	Hydractinia areolata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Podocoryna carnea	Hydractinia carnea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Corydendrium dispar	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Merona cornucopiae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Halitholus cirratus	Perigonimus cirratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Halitholus yoldiaearcticae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Leuckartiara nobilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Leuckartiara octona	Perigonimus repens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Neoturris pileata	Neoturris abyssi	 Perigonimus abyssi	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Velella velella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Lizzia blondina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Rathkea octopunctata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Ectopleura dumortierii	Tubularia dumortieri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Ectopleura larynx	Tubularia larynx	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Hybocodon prolifer	Tubularia prolifer	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Tubularia indivisa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Aequorea vitrina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Lytocarpia myriophyllum	Thecocarpus myriophyllum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Campanularia hincksii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Campanularia volubilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Clytia gracilis	Laomedea gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Clytia hemisphaerica	Campanularia johnstoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Gonothyraea loveni	Laomedea hyalina	 Laomedea loveni	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Hartlaubella gelatinosa	Laomedea gelatinosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Laomedea flexuosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Laomedea neglecta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Obelia dichotoma	Laomedea dichotoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Obelia geniculata	Laomedea geniculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Obelia longissima	Laomedea longissima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Orthopyxis integra	Campanularia integra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Rhizocaulus verticillatus	Campanularia verticillata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Calycella syringa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cuspidella humilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Lafoeina tenuis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Opercularella lacerata	Campanulina lacerata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Eirene viridula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Eutima gegenbauri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Eutima gracilis	Saphenia gracilis	 Eutima insignis	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Eutonina indicans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Helgicirrha cari	Helgicirrha schulzei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Tima bairdii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Halecium articulosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Halecium beanii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Halecium halecinum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Halecium labrosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Halecium muricatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Halecium sessile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Halecium tenellum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Polyplumaria flabellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Kirchenpaueria pinnata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Filellum serpens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Grammaria abietina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Lafoea dumosa	Lafoea fruticosa	 Lafoea gracillima	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Laodicea undulata	Cuspidella costata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Ptychogena crocea	Stegopoma plicatile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Eucheilota maculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Lovenella clausa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Melicertum octocostatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cosmetira pilosella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cyclocanna producta	Lovenella producta	 Cyclocanna welshi	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Mitrocomella polydiademata	Cuspidella grandis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Nemertesia ramosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Plumularia setacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Schizotricha frutescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sertularella distans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sertularella gayi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sertularella polyzonias	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Sertularella rugosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sertularella tenella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Abietinaria abietina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Abietinaria filicula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Abietinaria fusca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Amphisbetia operculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Diphasia alata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Diphasia fallax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Diphasia margareta	Diphasia pinaster	 Diphasia pinastrum	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Diphasia rosacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Dynamena pumila	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Hydrallmania falcata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sertularia cupressina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sertularia tenera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Tamarisca tamarisca	Sertomma tamarisca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Thuiaria articulata	Thuiaria lonchitis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Thuiaria thuja	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Modeeria rotunda	Tiaranna rotunda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Tiaropsis multicirrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Gonionemus vertens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Agalma elegans	Agalmopsis elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Nanomia bijuga	Cupulita cara	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Dimophyes arctica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Physophora hydrostatica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Aglantha digitale	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Ceratomyxa auerbachi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Ceratomyxa drepanopsettae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Ellipsomyxa gobii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Ellipsomyxa syngnathi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxidium bergense	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxidium gadi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxidium incurvatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxidium laticurvum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxidium oviforme	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sigmomyxa sphaerica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Zschokkella hildae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxobilatus gasterostei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxobilatus platessae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxobolus aeglefini	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxobolus gobii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Ortholinea orientalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Gadimyxa atlantica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Gadimyxa sphaerica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Parvicapsula spinachiae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Davisia longibrachia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Myxoproteus formosus	Bipteria formosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sinuolinea murmanica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Sphaeromyxa gasterostei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Kudoa quadratum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Trilosporoides platessae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Rhizostoma pulmo	Rhizostoma octopus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cyanea capillata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Cyanea lamarckii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Chrysaora hysoscella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Pelagia noctiluca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Aurelia aurita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Cnidaria	Craterolophus convolvulus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Haliclystus auricula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Cnidaria	Lucernaria quadricornis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Ctenophora	Beroe cucumis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Ctenophora	Beroe gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Ctenophora	Beroe ovata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Ctenophora	Pleurobrachia pileus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Ctenophora	Bolinopsis infundibulum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Ctenophora	Mnemiopsis leidyi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Asterias rubens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Leptasterias muelleri	Asterias müelleri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Marthasterias glacialis	Asterias glacialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Stichastrella rosea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Pontaster tenuispinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Astropecten irregularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Psilaster andromeda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Luidia ciliaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Luidia sarsii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Henricia perforata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Henricia pertusa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Henricia sanguinolenta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ceramaster granularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Hippasteria phrygiana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Porania pulvillus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Poraniomorpha hispida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Crossaster papposus	Solaster papposus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Solaster endeca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Pteraster militaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Antedon petasus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Hathrometra tenella	Hathrometra sarsii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Echinus esculentus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Gracilechinus acutus	Echinus acutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Gracilechinus elegans	Echinus elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Psammechinus miliaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Strongylocentrotus droebachiensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Cidaris cidaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Echinocyamus pusillus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Brissopsis lyrifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Echinocardium cordatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Echinocardium flavescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Echinocardium pennatifidum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Spatangus purpureus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Myriotrochus vitreus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Labidoplax buskii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Leptosynapta bergensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Leptosynapta decaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Leptosynapta inhaerens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ekmania barthii	Phyllophorus pellucidus	 Thyonidium pellucidum	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ocnus brunneus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Ocnus lacteus	Cucumaria lactea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Panningia hyndmani	Paracucumaria hyndmani	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Paraleptopentacta elongata	Leptopentacta elongata	 Cucumaria elongata	 Trachythyone elongata	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Thyone fusus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Psolus phantapus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Psolus squamatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Mesothuria intestinalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Parastichopus tremulus	Stichopus tremulus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Amphilepis norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Acrocnida brachiata	Amphiocnida brachiata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Amphipholis squamata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Amphiura borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Amphiura chiajei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Amphiura filiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Amphiura securigera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Echinodermata	Ophiactis balli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiopholis aculeata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiothrix fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Asteronyx loveni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Gorgonocephalus caputmedusae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiomitrella clavigera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiocomina nigra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophioscolex glacialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiocten affinis	Ophiura affinis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiocten sericeum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiura albida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiura ophiura	Ophiura texturata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiura robusta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Echinodermata	Ophiura sarsii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Gastrotricha	Aspidiophorus mediterraneus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Chaetonotus atrox	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Chaetonotus marinus	Halichaetonotus marinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Chaetonotus maximus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Halichaetonotus aculifer	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Gastrotricha	Halichaetonotus pleuracanthus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Halichaetonotus somniculosus	Chaetonotus somniculosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Heterolepidoderma grandiculum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Heterolepidoderma marinum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Ichthydium podura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Diuronotus rupperti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Turbanella cornuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Draculiciteria tesselata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Gastrotricha	Heteroxenotrichula affinis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Heteroxenotrichula squamosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gastrotricha	Xenotrichula intermedia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Gastrotricha	Xenotrichula velox	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Gnathostomula paradoxa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Mesognatharia remanei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Valvognathia pogonostoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Rastrognathia macrostoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Haplognathia filum	Pterognathia filum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Haplognathia gubbarnorum	Pterognathia gubbarnorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Haplognathia lunulifera	Pterognathia lunilifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Haplognathia rosea	Pterognathia rosea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Haplognathia ruberrima	Pterognathia ruberrima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Haplognathia simplex	Pterognathia simplex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Pterognathia atrox	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Gnathostomulida	Pterognathia swedmarki	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Hemichordata	Harrimania kupfferi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Hemichordata	Rhabdopleura normani	Rhabdopleura mirabilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Symbion americanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Symbion pandora	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosoma agile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosoma claparedei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosoma pectinaricola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosoma rhodinicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosoma saltans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosoma significans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella atkinsae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella compressa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella discopoda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella fauveli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella glandulifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella harmeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella marsypos	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella murmanica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella nitschei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella nordgaardi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella ornata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella phascolosomata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella polita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella scaura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella similis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Loxosomella varians	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Barentsia benedeni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Barentsia elongata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Barentsia gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Barentsia matsushimana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Pedicellina cernua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Pedicellina hispida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kamptozoa	Pedicellina nutans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kinorhyncha	Pycnophyes aulacodes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kinorhyncha	Pycnophyes communis	Pycnophyes calmani	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kinorhyncha	Setaphyes dentatus	Pycnophyes dentatus	 Echinoderes dentatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kinorhyncha	Setaphyes flaveolatus	Pycnophyes flaveolatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Kinorhyncha	Setaphyes kielensis	Pycnophyes kielensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Kinorhyncha	Campyloderes macquariae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Hiatella arctica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Hiatella rugosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Panomya norvegica	Panomya arctica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Ensis ensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ensis leei	Ensis americanus	 Ensis directus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ensis magnus	Ensis arcuatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ensis siliqua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Phaxas pellucidus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Asperarca nodulosa	Acar nodulosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Bathyarca pectunculoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Acanthocardia echinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cerastoderma edule	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cerastoderma glaucum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Laevicardium crassum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Papillicardium minimum	Parvicardium minimum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Parvicardium exiguum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Parvicardium pinnulatum	Parvicardium ovale	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Parvicardium scabrum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Donax vittatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Gari fervensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Gari tellinella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Abra alba	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Abra prismatica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Scrobicularia plana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Azorinus chamasolen	Solecurtus chamasolen	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Solecurtus scopula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Arcopagia crassa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Asbjornsenia pygmaea	Tellina pygmaea	 Moerella pygmaea	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Fabulina fabula	Tellina fabula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Limecola balthica	Macoma balthica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Macoma calcarea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Macomangulus tenuis	Angulus tenuis	 Tellina tenuis	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Astarte belti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Astarte borealis	Tridonta borealis	 Astarte bornholmi	 Astarte fjordi	 Astarte nordi	 Astarte silki	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Astarte elliptica	Tridonta elliptica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Astarte falsteri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Astarte montagui	Montagus astarte	 Tridonta montagui	 Astarte klinti	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Astarte sulcata	Astarte anholti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Saxicavella jeffreysi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Devonia perrieri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Epilepton clarkiae	Potidoma clarkiae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Hemilepton nitidum	Lepton nitidum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Kellia suborbicularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Kurtiella bidentata	Mysella bidentata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Kurtiella tumidula	Mysella tumidula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Lepton squamosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Montacuta substriata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Tellimya ferruginosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Tellimya tenella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Limaria hians	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Limaria loscombi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Limatula subauriculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Lucinoma borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Myrtea spinifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Axinulus croulinensis	Thyasira croulinensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Parathyasira equalis	Thyasira equalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Thyasira flexuosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Thyasira sarsii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Thyasira sarsi	x	-	
+Mollusca	Varicorbula gibba	Corbula gibba	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Mya arenaria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Mya truncata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Barnea candida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Pholas dactylus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Zirfaea crispata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Nototeredo norvagica	Nototeredo norvegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Psiloteredo megotara	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Teredo navalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Xylophaga dorsalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Crenella decussata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Gibbomodiola adriatica	Modiolus adriaticus	NA	NA	NA	NA	NA	NA	NA	Modiolus adriaticus	NA	NA	x	x	
+Mollusca	Modiolula phaseolina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Modiolus cimbricus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Modiolus modiolus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Musculus discors	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Musculus niger	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Musculus subpictus	Modiolarca tumida	 Modiolarca subpicta	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Mytilus edulis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Mytilus trossulus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Malletia pianii	Malletia obtusa	 Pseudomalletia obtusa	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Nuculana minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Nuculana pernula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Yoldiella lucida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Yoldiella nana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ennucula tenuis	Nuculoma tenuis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Nucula hanleyi	Nuculoma hanleyi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Nucula nitidosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Nucula nucleus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Nucula sulcata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Magallana gigas	Crassostrea angulata	 Crassostrea gigas	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ostrea edulis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Heteranomia squamula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Pododesmus patelliformis	Monia patelliformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Pododesmus squama	Monia squama	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Aequipecten opercularis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Delectopecten vitreus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Mimachlamys varia	Chlamys varia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Palliolum incomparabile	Pecten furtivum	 Palliolum furtivum	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Palliolum striatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Palliolum tigerinum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Pecten maximus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Pseudamussium peslutrae	Pseudamussium septemradiatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Similipecten similis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Arctica islandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Glossus humanus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Kelliella miliaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Lutraria lutraria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Mactra stultorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Spisula elliptica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Spisula solida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Spisula subtruncata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Chamelea striatula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Clausinella fasciata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Mysia undata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Petricolaria pholadiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Polititapes rhomboides	Venerupis rhomboides	 Tapes rhomboides	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Timoclea ovata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Venerupis corrugata	Venerupis senegalensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cuspidaria cuspidata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cuspidaria obesa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Lyonsia norwegica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cochlodesma praetenue	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Thracia convexa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Thracia gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Thracia phaseolina	Thracia papyracea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Thracia villosiuscula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Chaetoderma nitidulum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Alloteuthis subulata	Loligo media	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Loligo forbesii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Loligo vulgaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Haliphron atlanticus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Bathypolypus arcticus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Eledone cirrhosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Octopus vulgaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Architeuthis dux	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Gonatus fabricii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Illex coindetii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ommastrephes bartramii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Todarodes sagittatus	Ommatostrephes sagittatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Todaropsis eblanae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Onychoteuthis banksii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Sepia elegans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Sepia officinalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Sepia orbignyana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Rossia macrosoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Rossia palpebrosa	Rossia glaucopis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Sepietta oweniana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Sepiola atlantica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Sepiola rondeleti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Akera bullata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Aplysia punctata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Acteon tornatilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cylichna cylindracea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Diaphana minuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Laona quadrata	Philine quadrata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Hermania scabra	Philine scabra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Philine aperta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Philine catena	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Philine denticulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Philine punctata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Retusa obtusa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Retusa truncatula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Retusa umbilicata	Cylichnina umbilicata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Volvulella acuminata	Rhizorus acuminatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Scaphander lignarius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Scaphander punctostriatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Myosotella myosotis	Ovatella myosotis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Emarginula fissura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Puncturella noachina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Aporrhais pespelecani	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Aporrhais serresianus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Assiminea grayana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Caecum glabrum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Crepidula fornicata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Capulus ungaricus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Aclis ascaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Aclis minor	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Aclis walleri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Enteroxenos oestergreni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Eulima bilineata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Haliella stenostoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Melanella lubrica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Melanella monterosatoi	Polygireulima monterosatoi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Melanella polita	Polygireulima sinuosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Pelseneeria stylifera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Vitreolina philippi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Hydrobia acuta	Hydrobia neglecta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Peringia ulvae	Hydrobia ulvae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Hyala vitrea	Onoba vitrea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Lacuna crassior	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Lacuna pallidula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Lacuna parva	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Lacuna vincta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Littorina fabalis	Littorina mariae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Littorina littorea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Littorina obtusata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Littorina saxatilis	Littorina tenebrosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Melarhaphe neritoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Amauropsis islandica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cryptonatica affinis	Lunatia clausa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Euspira catena	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Euspira montagui	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Euspira nitida	Lunatia alderi	 Euspira pulchella	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Euspira pallida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Alvania jeffreysi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Alvania punctura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Alvania testae	Alvania abyssicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Crisilla semistriata	Cingula semistriata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Obtusella intersecta	Obtusella alderi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Onoba aculeus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Onoba semicostata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Pseudosetia turgida	Cingula turgida	 Setia turgida	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Pusillina inconspicua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Pusillina sarsii	Rissoa albella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Rissoa membranacea	Rissoa labiosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Rissoa parva	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Rissoa violacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Trivia arctica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Lamellaria perspicua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Velutina plicatilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Velutina velutina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Buccinum undatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Liomesus ovum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Neptunea antiqua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Troschelia berniciensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Admete viridula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Colus gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Colus jeffreysianus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Colus sabini	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Turrisipho moebii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Bela nebula	Mangelia nebula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Curtitoma trevelliana	Oenopota trevelliana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Mangelia attenuata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Mangelia costata	Mangelia coarctata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Propebela turricula	Oenopota turricola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Sorgenfreispira brachystoma	Bela brachystoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Boreotrophon clathratus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Boreotrophon truncatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Nucella lapillus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ocenebra erinaceus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ocinebrellus inornatus	Pteropurpura inornata	 Ceratostoma inornatum	 Ocenebra japonica	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Trophonopsis barvicensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Trophonopsis muricata	Raphitoma asperrima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Tritia incrassata	Hinia incrassata	 Nassarius incrassatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Tritia pygmaea	Hinia pygmaea	 Nassarius pygmaeus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Tritia reticulata	Hinia reticulata	 Nassarius reticulatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Raphitoma leufroyi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Raphitoma linearis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Taranis moerchii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Aegires punctilucens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Aeolidia filomenae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Aeolidia papillosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Aeolidiella glauca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Armina loveni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Cadlina laevis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Diaphorodoris luteocincta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Borealea nobilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Coryphella verrucosa	Flabellina verrucosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Fjordia browni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Fjordia lineata	Coryphella lineata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Microchlamylla gracilis	Coryphella gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cuthonella concinna	Cuthona concinna	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cuthona nana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cuthona suecica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Dendronotus europaeus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Dendronotus frondosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Dendronotus lacteus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Dendronotus robustus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Geitodoris planata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Jorunna tomentosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Doris pseudoargus	Archidoris pseudoargus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Doto coronata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Doto cuspidata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Doto fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Doto millbayana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Embletonia pulchra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Eubranchus exiguus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Eubranchus farrani	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Eubranchus pallidus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Eubranchus rupium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Eubranchus tricolor	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Eubranchus vittatus	Eubranchus cingulatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Facelina auriculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Facelina bostoniensis	Facelina curta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Facelina dubia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Favorinus blianus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Favorinus branchialis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Carronella pellucida	Coryphella pellucida	 Flabellina pellucida	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Edmundsella pedata	Coryphella pedata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Ancula gibbosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Goniodoris castanea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Goniodoris nodosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Okenia aspersa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Hero formosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Janolus cristatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Acanthodoris pilosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Adalaria proxima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Onchidoris bilamellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Onchidoris muricata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Paracoryphella parva	Flabellina parva	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Limacia clavigera	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Palio dubia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Palio nothus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Polycera quadrilineata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Tergipes tergipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Catriona aurantia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Diaphoreolis viridis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Rubramoena amoena	Cuthona amoena	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Tenellia adspersa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Trinchesia caerulea	Cuthona caerulea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Trinchesia foliata	Cuthona foliata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Zelentia pustulata	Cuthona pustulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Tritonia hombergii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Tritonia plebeia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Berthella sideralis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Clione limacina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Limacina retroversa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Pneumodermopsis paucidens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Calliostoma gemmulatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Calliostoma zizyphinum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Margarites helicinus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Skenea basistriata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Clelandella miliaris	Jujubinus clelandi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Gibbula tumida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Steromphala cineraria	Gibbula cineraria	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Bittium reticulatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cerithiopsis barleei	Cerithiella barleei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Epitonium clathratulum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Epitonium clathrus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Epitonium trevelyanum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Epitonium turtonis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Hedylopsis spiculifera	Hedylopsis suecica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Iothia fulva	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Lepeta caeca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Alderia modesta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Calliopaea bellula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Calliopaea oophaga	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Ercolania nigra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Limapontia capitata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Limapontia depressa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Placida dendritica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Tectura virginea	Acmaea virginea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Testudinalia testudinalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Ebala nitidissima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Cerithiella metula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Omalogyra atomus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Patella pellucida	Helcion pellucidum	 Ansates pellucida	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Patella vulgata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Elysia viridis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Brachystomia carrozzai	Odostomia carrozzai	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Brachystomia eulimoides	Odostomia eulimoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Brachystomia scalaris	Odostomia scalaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Eulimella scillae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Liostomia afzelii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Liostomia clavula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Megastomia conoidea	Odostomia conoidea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Odostomia acuta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Odostomia plicata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Odostomia turrita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Odostomia unidentata	Odostomia albella	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Ondina diaphana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Ondina divisa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Ondina obliqua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Parthenina decussata	Chrysallida decussata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Parthenina indistincta	Chrysallida indistincta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Parthenina interstincta	Chrysallida interstincta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Pyrgiscus crenatus	Turbonilla crenata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Spiralinella spiralis	Chrysallida pellucida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Turbonilla acuta	Turbonilla delicata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Turbonilla lactea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Tjaernoeia exquisita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Marshallora adversa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Turritella communis	Turritellinella tricarinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Callochiton septemvalvis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Stenosemus albus	Ischnochiton albus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Boreochiton ruber	Tonicella rubra	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Lepidochitona cinerea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Lepidochitona cinereus	x	x	
+Mollusca	Tonicella marmorea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Hanleya hanleyi	Hanleya nagelfar	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Leptochiton asellus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Antalis agilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Antalis entalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Mollusca	Cadulus subfusiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Mollusca	Neomenia carinata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Cervonema macramphis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Choanolaimus psammophilus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Diplopeltoides sundensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Cosmocephalus obvelatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Paracuaria adunca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Anguillicoloides crassus	Anguillicola crassus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Nematoda	Contracaecum osculatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Contracaecum rudolphii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Pseudoterranova decipiens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Camallanus truncatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Cucullanus heterochrous	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Cucullanus sphaerocephalus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Cucullanus truttae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Dichelyne minutus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Ascarophis arctica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Ascarophis morrhuae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Spinitectus inermis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Spinitectus oviflagellis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Daniconema anguillae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Philometra ovata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Philometra rischta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Paraquimperia tenerrima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Hysterothylacium aduncum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Raphidascaris acus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Eustrongylides mergorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Capillaria gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nematoda	Capillaria wickinsi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Amphiporus bioculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Amphiporus lactifloreus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Carcinonemertes carcinophila	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Nipponnemertes pulcher	Amphiporus pulcher	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Emplectonema gracile	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Nemertopsis flavida	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Nemertopsis tenuis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Malacobdella grossa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Oerstedia dorsalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Nemertea	Oerstedia similiformis	Oerstediella similiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Cyanophthalma cordiceps	Amphiporus cordiceps	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Cyanophthalma obscura	Prostomatella obscura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Tetrastemma melanocephalum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Tetrastemma robertianae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Tetrastemma vermiculus	Prostomatella vermicula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Callinera buergeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Carinina coei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Carinina remanei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Protubulanus theeli	Tubulanus theeli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Tubulanus annulatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Nemertea	Tubulanus linearis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Nemertea	Tubulanus superbus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Nemertea	Cerebratulus marginatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Lineus albocinctus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Lineus ruber	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Nemertea	Micrura fasciolata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Nemertea	Micrura purpurea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Nemertea	Siphonenteron bilineatum	Lineus bilineatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Nemertea	Hubrechtella dubia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Phoronida	Phoronis hippocrepia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Phoronida	Phoronis muelleri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Alcataenia micracantha	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Anomotaenia microrhyncha	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Dicranotaenia cirrosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Diphyllobothrium latum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Schistocephalus solidus	Schistocephalus gasterostei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Entobdella hippoglossi	Epibdella hippoglossi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Pseudodactylogyrus anguillae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Pseudodactylogyrus bini	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Udonella caligorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Axine belones	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Diplozoon paradoxum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Aporocotyle simplex	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Aporocotyle spinosicanalis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Diplostomum baeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Platyhelminthes	Diplostomum gasterostei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Diplostomum pseudospathaceum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Platyhelminthes	Diplostomum spathaceum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Platyhelminthes	Posthodiplostomum brevicaudatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Posthodiplostomum cuticola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Tylodelphys clavata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Platyhelminthes	Tylodelphys podicipina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Leucochloridium perturbatum	Leucochloridium variae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Trichobilharzia ocellata	Cercaria ocellata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Apatemon gracilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Ichthyocotylurus variegatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Neophasis anarrhichae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Neophasis oculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Stephanostomum pristis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Accacladium serpentulus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Accacladocoelium alveolatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Accacladocoelium macrocotyle	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Accacladocoelium nigroflavum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Accacladocoelium petasiporum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Accacoelium contortum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Odhnerium calyptocotyle	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Rhynchopharynx paradoxa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Bunodera luciopercae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Crepidostomum farionis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Crepidostomum metoecus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Azygia lucii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Bucephalus polymorphus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Prosorhynchoides gracilescens	Bucephalloides gracilescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Prosorhynchus squamatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Rhipidocotyle galeata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Rhipidocotyle illense	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Rhipidocotyle minima	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Aphalloides coelomicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Timoniella imbutiforme	Acanthostomum imbutiforme	NA	NA	NA	NA	NA	NA	NA	Timoniella imbutiformis	NA	NA	x	-	
+Platyhelminthes	Derogenes varicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Magnibursatus caudofilamentosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Deropristis inflata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Halvorsenius exilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Mesorchis denticulatus	NA	NA	NA	NA	NA	NA	NA	NA	Stephanoprora denticulata	NA	NA	x	-	
+Platyhelminthes	Fellodistomum agnotum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Fellodistomum fellis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Monascus filiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Proctoeces maculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Steringophorus furciger	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Steringophorus thulini	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Steringotrema ovacutum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Steringotrema pagelli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Tergestia laticollis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Phyllodistomum folium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Brachyphallus crenatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Bunocotyle cingulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Ectenurus lepidus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Hemiurus appendiculatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Hemiurus communis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Hemiurus luehei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Lecithochirium rufoviride	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Lecithocladium excisum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Galactosomum lacteum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Pygidiopsis ardeae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Pygidiopsis summa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Lecithaster gibbosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Lecithophyllum botryophorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Lepidapedon elongatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Lepidapedon rachion	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Opechona bacillaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Asymphylodora demeli	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Asymphylodora tincae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Cercaria misenensis	NA	NA	NA	NA	NA	NA	NA	NA	Maritrema misenense	NA	NA	x	-	
+Platyhelminthes	Microphallus similis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Ancylocoelium typicum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Paratimonia gobii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Anisorchis opisthorchis	NA	NA	NA	NA	NA	NA	NA	NA	Caudotestis opisthorchis	NA	NA	x	-	
+Platyhelminthes	Anomalotrema koiae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Helicometra pulchella	NA	NA	NA	NA	NA	NA	NA	NA	Helicometra fasciata	NA	NA	x	-	
+Platyhelminthes	Macvicaria soleae	Plagioporus varius	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Nicolla gallica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Peracreadium idoneum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Podocotyle atomon	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Podocotyle reflexa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Cryptocotyle concava	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Cryptocotyle jejuna	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Cryptocotyle lingua	Cercaria lophocerca	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Platyhelminthes	Pseudamphistomum truncatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Lepidophyllum steenstrupi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Proctophantastes abyssorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Pseudozoogonoides subaequiporus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Zoogonoides viviparus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Zoogonus rubellus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Alaurina alba	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Alaurina composita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Fecampia xanthocephala	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Kronborgia amphipodicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Prostheceraeus vittatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Pleioplana atomata	Notoplana atomata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Cryptocelides loveni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Acrorhynchides caledonicus	Acrorhynchus caledonicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Gyratrix hermaphroditus	Gyrator notops	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Macrorhynchus crocea	NA	NA	NA	NA	NA	NA	NA	NA	Graffiellus croceus	NA	NA	x	-	
+Platyhelminthes	Phonorhynchus helgolandicus	Macrorhynchus helgolandicus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Polycystis naegelii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Promesostoma marmoratum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Astrotorhynchus bifidus	Pseudorhynchus bifidus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Platyhelminthes	Proxenetes flabellifer	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Clathrina coriacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Leucosolenia botryoides	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Leucosolenia complicata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Sycon ciliatum	Scypha ciliata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Sycon quadrangulatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Axinella rugosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Porifera	Phakellia ventilabrum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Porifera	Halisarca dujardinii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Cliona celata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Porifera	Cliona lobata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Pione vastifica	Cliona vastifica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Dysidea fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Chalinula limbata	Haliclona limbata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Haliclona oculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Porifera	Haliclona rosea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Haliclona urceolus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Iophon piceum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Forcepia forcipis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Lissodendoryx fragilis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Crella pyrula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Amphilectus fucorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Amphilectus ovulum	Amphilectus lobatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Hymedesmia coriacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Isodictya palmata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Antho dichotoma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Mycale lingua	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Myxilla fibrosa	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Myxilla incrustans	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Porifera	Polymastia boletiformis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Polymastia mamillaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Halichondria bowerbanki	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Halichondria panicea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Porifera	Vosmaeria crustacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Stylocordyla borealis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Pseudosuberites sulphureus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Suberites ficus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Suberites montalbidus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Suberites virgultosus	Suberites luetkeni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Porifera	Thenea muricata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Priapulida	Halicryptus spinulosus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Priapulida	Priapulus caudatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Rotifera	Philodina roseola	Philodina cinnabarina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Hexarthra fennica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Rotifera	Testudinella clypeata	Brachionus clypeatus	 Pterodina crassa	 Testudinella dentata	 Testudinella pseudoclypeata	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Testudinella elliptica	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Testudinella patina	Brachionus patina	 Pterodina intermedia	 Testudinella pseudoelliptica	 Testudinella sculpturata	 Pterodina trilobata	 Testudinella trilobata subsp. haterumensis	 Testudinella trilobata subsp. triangularis	 Pterodina valvata	NA	NA	NA	x	x	
+Rotifera	Anuraeopsis fissa	Anuraeopsis hypelasma	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Brachionus plicatilis	Brachionus hepatotomus	 Brachionus muelleri	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Rotifera	Notholca bipalium	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Notholca foliacea	Anuraea foliacea	 Argonotholca foliacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Notholca marina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Notholca salina	Notholca squamula subsp. evensi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Notholca squamula	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Platyias quadricornis	Noteus quadricornis	 Brachionus intermedius	 Noteus quadricornis var. brevispinus	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Rotifera	Aspelta clydona	Aspelta antonowiezae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Encentrum astridae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Encentrum graingeri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Encentrum limicola	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Encentrum marinum	Furcularia marina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Encentrum porsildi	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Paradicranophorus hudsoni	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Euchlanis deflexa	Dapidia deflexa	 Euchlanis calpidia	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Rotifera	Ascomorpha ecaudis	Ascomorpha germanica	 Ascomorpha helvetica	 Sacculus viridis	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Colurella adriatica	Monura bartonia	 Colurus caudatus	 Monura dulcis	 Colurus leptus	 Colurus navalis	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Colurella colurus	Colurus colurus	 Colurus amblytelus	 Colurus grallator	 Monura loncheres	 Colurella longidigita	 Colurus rotundatus	NA	NA	NA	NA	NA	x	-	
+Rotifera	Colurella dicentra	Colurus dicentrus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Colurella uncinata	Brachionus uncinatus	 Colurus dumnonius	 Monura micromela	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Colurella unicauda	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Lepadella acuminata	Metopidia acuminata	 Lepadella chorea	 Lepadella sexcostata	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Lepadella ovalis	Brachionus ovalis	 Metopidia affinis	 Metopidia lepadella	 Mytilina lepidura	 Lepadella rotundata	 Metopidia solidus	 Lepadella velazmedrani	NA	NA	NA	NA	x	-	
+Rotifera	Lindia tecusa	Lindia brodskayae	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Lophocharis oxysternon	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Cephalodella catellina	Cercaria catellina	 Cephalodella armata	 Cephalodella botezati	 Cephalodella catellina subsp. natans	 Cephalodella myersi	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Notommata glyphura	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Proales oculata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Proales paguri	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Proales reinhardti	Furcularia reinhardti	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Proales theodora	Notommata theodora	 Proales longipes	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Synchaeta grimpei	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Synchaeta pectinata	Synchaeta mordax	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Synchaeta tremula	Vorticella tremula	 Synchaeta neglecta	 Synchaeta truncata	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Trichocerca marina	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Trichocerca porcellus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Rotifera	Trichocerca similis	Coelopus similis	 Trichocerca birostris	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Rotifera	Trichotria tetractis	Dinocharis tetractis subsp. caudata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Sipuncula	Phascolosoma capitatum	Phascolosoma abyssorum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Phascolosoma nigrescens	Phascolosoma minutum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Golfingia elongata	Phascolosoma elongatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Golfingia margaritacea	Phascolosoma margaritaceum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Sipuncula	Golfingia vulgaris	Phascolosoma vulgare	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Nephasoma eremita	Phascolosoma eremita	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Nephasoma minutum	Phascolosoma improvisum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Thysanocardia procera	Phascolosoma procerum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Onchnesoma squamatum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Onchnesoma steenstrupii	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Phascolion strombus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Phascolion tuberculosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Sipuncula	Sipunculus nudus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	x	
+Xenacoelomorpha	Conaperta flavibacillum	Convoluta flavibacillum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Xenacoelomorpha	Convoluta convoluta	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Xenacoelomorpha	Symsagittifera roscoffensis	Convoluta roscoffensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Xenacoelomorpha	Aphanostoma virescens	Amphichoerus virescens	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Xenacoelomorpha	Otocelis rubropunctata	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	
+Xenacoelomorpha	Paramecynostomum diversicolor	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	x	-	

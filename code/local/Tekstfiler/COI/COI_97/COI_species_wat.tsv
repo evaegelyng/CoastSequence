@@ -1,0 +1,229 @@
+"Eelgrass"	"Rocks"	"Sand"
+"1"	"Abra alba"	"Abra alba"	"Abra alba"
+"2"	"Abra nitida"	"Abra nitida"	"Abra nitida"
+"3"	"Acartia 	hudsona_tonsa"	"Acartia 	hudsona_tonsa"	"Acartia 	hudsona_tonsa"
+"4"	"Acartia longiremis"	"Acartia longiremis"	"Acartia tonsa"
+"5"	"Acartia tonsa"	"Acartia tonsa"	"Acrochaetium humile"
+"6"	"Acremonium fuci"	"Acremonium fuci"	"Acrochaetium luxurians"
+"7"	"Acrochaetium humile"	"Acrochaetium humile"	"Acrochaetium moniliforme"
+"8"	"Acrochaetium luxurians"	"Acrochaetium luxurians"	"Aequipecten opercularis"
+"9"	"Acrochaetium moniliforme"	"Acrochaetium moniliforme"	"Agonus cataphractus"
+"10"	"Ahnfeltia plicata"	"Aglaothamnion halliae"	"Ahnfeltia plicata"
+"11"	"Alitta succinea_Hediste diversicolor"	"Ahnfeltia plicata"	"Alitta succinea_Hediste diversicolor"
+"12"	"Alitta virens"	"Alitta succinea_Hediste diversicolor"	"Alitta virens"
+"13"	"Amathia gracilis"	"Alitta virens"	"Amathia gracilis"
+"14"	"Ammodytes tobianus"	"Amathia gracilis"	"Ammodytes tobianus"
+"15"	"Amphitrite figulus"	"Ammodytes tobianus"	"Amphitrite figulus"
+"16"	"Arctica islandica"	"Amphiascopsis cinctus"	"Aphia minuta"
+"17"	"Arenicola defodiens_marina"	"Amphidinium carterae"	"Arctica islandica"
+"18"	"Ascidiella aspersa"	"Amphitrite figulus"	"Arenicola defodiens_marina"
+"19"	"Asellus aquaticus"	"Amphiura filiformis"	"Ascidiella aspersa"
+"20"	"Asterias rubens"	"Anguilla anguilla"	"Asterias rubens"
+"21"	"Attheya longicornis"	"Aphia minuta"	"Attheya longicornis"
+"22"	"Aurelia aurita"	"Arctica islandica"	"Aurelia aurita"
+"23"	"Aureococcus anophagefferens"	"Ardea cinerea"	"Aureococcus anophagefferens"
+"24"	"Austrominius modestus"	"Arenicola defodiens_marina"	"Bathycoccus prasinos"
+"25"	"Bathycoccus prasinos"	"Ascidiella aspersa"	"Belone belone"
+"26"	"Belone belone"	"Aspergillus fumigatus"	"Bittium reticulatum"
+"27"	"Bittium reticulatum"	"Asterias rubens"	"Bougainvillia muscus"
+"28"	"Bougainvillia muscus"	"Attheya longicornis"	"Bougainvillia superciliaris"
+"29"	"Callithamnion corymbosum"	"Aurelia aurita"	"Callithamnion corymbosum"
+"30"	"Capitella teleta"	"Aureococcus anophagefferens"	"Canuella perplexa"
+"31"	"Carcinus maenas"	"Austrominius modestus"	"Carcinus maenas"
+"32"	"Centropages hamatus"	"Baltidrilus costatus"	"Catriona aurantia"
+"33"	"Centropages typicus"	"Bathycoccus prasinos"	"Centropages hamatus"
+"34"	"Ceramium secundatum"	"Belone belone"	"Centropages typicus"
+"35"	"Ceramium virgatum"	"Berkeleya fennica"	"Ceramium pallidum"
+"36"	"Cerastoderma edule"	"Bittium reticulatum"	"Ceramium secundatum"
+"37"	"Cerastoderma glaucum"	"Botryllus schlosseri"	"Cerastoderma edule"
+"38"	"Chaetoceros tenuissimus"	"Bougainvillia muscus"	"Cerastoderma glaucum"
+"39"	"Chloroparvula pacifica"	"Calliopius laeviusculus"	"Chaetoceros tenuissimus"
+"40"	"Chondrus crispus"	"Callithamnion corymbosum"	"Chloroparvula pacifica"
+"41"	"Chorda filum"	"Canuella perplexa"	"Chorda filum"
+"42"	"Ciona intestinalis"	"Carcinus maenas"	"Chordaria flagelliformis"
+"43"	"Clitocybe robusta"	"Centropages hamatus"	"Ciona intestinalis"
+"44"	"Clytia hemisphaerica"	"Centropages typicus"	"Clitocybe robusta"
+"45"	"Colpomenia peregrina"	"Ceramium pallidum"	"Clytia hemisphaerica"
+"46"	"Ctenolabrus rupestris"	"Ceramium secundatum"	"Ctenolabrus rupestris"
+"47"	"Cyanea capillata"	"Ceramium virgatum"	"Cyanea capillata"
+"48"	"Dasya baillouviana"	"Cerastoderma edule"	"Dasya baillouviana"
+"49"	"Dasysiphonia japonica"	"Cerastoderma glaucum"	"Dasysiphonia japonica"
+"50"	"Dichromadora geophila"	"Chaetoceros tenuissimus"	"Dichromadora geophila"
+"51"	"Dictyosiphon foeniculaceus"	"Chloroparvula pacifica"	"Dictyosiphon foeniculaceus"
+"52"	"Dictyota dichotoma"	"Chondrus crispus"	"Diplolaimella dievengatensis"
+"53"	"Diplolaimella dievengatensis"	"Chorda filum"	"Ditrichocorycaeus anglicus"
+"54"	"Dodecaceria concharum"	"Chordaria flagelliformis"	"Dodecaceria concharum"
+"55"	"Dynamena pumila"	"Chroomonas placoidea"	"Doto dunnei_millbayana"
+"56"	"Ectopleura larynx"	"Ciona intestinalis"	"Dynamena pumila"
+"57"	"Emiliania huxleyi"	"Clitocybe robusta"	"Ectopleura larynx"
+"58"	"Ercolania viridis"	"Clytia hemisphaerica"	"Emiliania huxleyi"
+"59"	"Eudendrium capillare"	"Colpomenia peregrina"	"Entomobrya nivalis"
+"60"	"Eumida mackiei"	"Craterolophus convolvulus"	"Ercolania viridis"
+"61"	"Eumida sanguinea"	"Ctenolabrus rupestris"	"Eubranchus rupium"
+"62"	"Eurytemora affinis"	"Cyanea capillata"	"Eudendrium capillare"
+"63"	"Evadne nordmanni"	"Cystoclonium purpureum"	"Eudesme borealis"
+"64"	"Fibrocapsa japonica"	"Dasya baillouviana"	"Eumida sanguinea"
+"65"	"Flustra foliacea"	"Dictyosiphon foeniculaceus"	"Eurytemora affinis"
+"66"	"Fucus serratus"	"Dictyota dichotoma"	"Eurytemora affinis_carolleeae"
+"67"	"Gaillona rosea"	"Diplolaimella dievengatensis"	"Evadne nordmanni"
+"68"	"Gymnodinium catenatum"	"Diurodrilus subterraneus"	"Favorinus branchialis"
+"69"	"Halichondria panicea"	"Dodecaceria concharum"	"Fibrocapsa japonica"
+"70"	"Haliclona oculata"	"Dumontia contorta"	"Flustra foliacea"
+"71"	"Haminoea solitaria"	"Dynamena pumila"	"Fucus serratus"
+"72"	"Harpacticus flexus"	"Echinocardium cordatum"	"Gaillona rosea"
+"73"	"Haslea crucigera"	"Ectocarpus siliculosus_subulatus"	"Gonionemus vertens"
+"74"	"Haslea ostrearia"	"Ectopleura larynx"	"Gymnodinium catenatum"
+"75"	"Haslea pseudostrearia"	"Elachista fucicola"	"Halichondria panicea"
+"76"	"Hecatonema terminale"	"Emiliania huxleyi"	"Haliclona oculata"
+"77"	"Hediste diversicolor"	"Ercolania viridis"	"Halisarca dujardinii"
+"78"	"Heterocapsa rotundata"	"Eudendrium capillare"	"Haminoea solitaria"
+"79"	"Heterocapsa triquetra"	"Eudesme borealis"	"Harpacticus flexus"
+"80"	"Heterosigma akashiwo"	"Eulalia viridis"	"Haslea ostrearia"
+"81"	"Hildenbrandia rubra"	"Eumida sanguinea"	"Hecatonema terminale"
+"82"	"Hincksia granulosa"	"Eurytemora affinis_carolleeae"	"Hediste diversicolor"
+"83"	"Hydra oligactis"	"Evadne nordmanni"	"Heterocapsa rotundata"
+"84"	"Idotea chelipes"	"Facelina bostoniensis"	"Heterocapsa triquetra"
+"85"	"Karenia bidigitata"	"Fibrocapsa japonica"	"Heterosigma akashiwo"
+"86"	"Kuckuckia spinosa"	"Flustra foliacea"	"Hildenbrandia rubra"
+"87"	"Laminaria digitata"	"Fucus serratus"	"Hincksia granulosa"
+"88"	"Leathesia marina_difformis"	"Gaillona rosea"	"Karenia bidigitata"
+"89"	"Lepidonotus squamatus"	"Gasterosteus aculeatus"	"Kuckuckia spinosa"
+"90"	"Leptosiphonia fibrillosa"	"Gobiusculus flavescens"	"Laminaria digitata"
+"91"	"Leuciscus idus_leuciscus"	"Gonionemus vertens"	"Leathesia marina_difformis"
+"92"	"Leuckartiara octona"	"Gymnodinium catenatum"	"Leptosiphonia fibrillosa"
+"93"	"Leucocryptos marina"	"Halichondria panicea"	"Leuciscus idus_leuciscus"
+"94"	"Levanderina fissa"	"Haliclona oculata"	"Leuckartiara octona"
+"95"	"Limapontia senestra"	"Halidrys siliquosa"	"Leucocryptos marina"
+"96"	"Limecola balthica"	"Haminoea solitaria"	"Levanderina fissa"
+"97"	"Littorina littorea"	"Harpacticus flexus"	"Limapontia senestra"
+"98"	"Littorina saxatilis"	"Haslea crucigera"	"Limecola balthica"
+"99"	"Lumbricillus lineatus"	"Haslea ostrearia"	"Lineus viridis_Micrura varicolor"
+"100"	"Macomangulus tenuis"	"Hecatonema terminale"	"Littorina littorea"
+"101"	"Marenzelleria viridis"	"Hediste diversicolor"	"Littorina saxatilis"
+"102"	"Membranipora membranacea"	"Hemigrapsus penicillatus_takanoi"	"Lizzia blondina"
+"103"	"Metridia pacifica"	"Heterocapsa rotundata"	"Lumbricillus lineatus"
+"104"	"Microprotopus maculatus"	"Heterocapsa triquetra"	"Marenzelleria viridis"
+"105"	"Minutocellus polymorphus"	"Heterosigma akashiwo"	"Metridia pacifica"
+"106"	"Mnemiopsis leidyi"	"Hildenbrandia rubra"	"Microspongium tenuissimum"
+"107"	"Monocelis fusca"	"Hincksia granulosa"	"Minutocellus polymorphus"
+"108"	"Monocorophium acherusicum"	"Hincksia sandriana"	"Mnemiopsis leidyi"
+"109"	"Monocorophium insidiosum"	"Hypogastrura viatica"	"Monocelis fusca"
+"110"	"Mya arenaria"	"Karenia bidigitata"	"Monocorophium acherusicum"
+"111"	"Myriotrichia claviformis"	"Kuckuckia spinosa"	"Monocorophium insidiosum"
+"112"	"Mytilus edulis_trossulus"	"Kurtiella bidentata"	"Mya arenaria"
+"113"	"Mytilus trossulus"	"Laminaria digitata"	"Mytilus edulis"
+"114"	"Nais elinguis"	"Laomedea angulata"	"Mytilus trossulus"
+"115"	"Nannochloropsis gaditana_oculata"	"Laomedea flexuosa"	"Nannochloropsis gaditana_oculata"
+"116"	"Nannochloropsis granulata"	"Leathesia marina_difformis"	"Nannochloropsis granulata"
+"117"	"Nassarius nitidus"	"Leptosiphonia fibrillosa"	"Nannopus palustris"
+"118"	"Neogobius melanostomus"	"Leuciscus idus_leuciscus"	"Nassarius nitidus"
+"119"	"Nephtys hombergii"	"Leuckartiara octona"	"Neogobius melanostomus"
+"120"	"Nerophis ophidion"	"Leucocryptos marina"	"Obelia dichotoma_longissima"
+"121"	"Obelia bidentata"	"Levanderina fissa"	"Oithona similis"
+"122"	"Obelia dichotoma_longissima"	"Limapontia senestra"	"Ophiura albida"
+"123"	"Oithona similis"	"Limecola balthica"	"Paracalanus parvus"
+"124"	"Ophiura albida"	"Lineus viridis_Micrura varicolor"	"Paramecynostomum diversicolor"
+"125"	"Ophiura ophiura"	"Littorina littorea"	"Paraonis fulgens"
+"126"	"Panagrolaimus paetzoldi"	"Littorina saxatilis"	"Parvicardium exiguum"
+"127"	"Paracalanus parvus"	"Lumbricillus lineatus"	"Penilia avirostris"
+"128"	"Paranais litoralis"	"Magallana gigas"	"Peringia ulvae"
+"129"	"Paraonis fulgens"	"Marenzelleria viridis"	"Petalonia fascia"
+"130"	"Parvicardium exiguum"	"Melanothamnus harveyi"	"Petricolaria pholadiformis"
+"131"	"Pellucidodinium psammophilum"	"Membranipora membranacea"	"Phaeocystis globosa"
+"132"	"Penilia avirostris"	"Metridia pacifica"	"Phytophthora inundata"
+"133"	"Peringia ulvae"	"Microarthridion fallax"	"Platichthys flesus"
+"134"	"Petalonia fascia"	"Microspongium tenuissimum"	"Platynereis dumerilii"
+"135"	"Petricolaria pholadiformis"	"Minutocellus polymorphus"	"Pleopis polyphemoides"
+"136"	"Phaeocystis globosa"	"Mnemiopsis leidyi"	"Pleuronectes platessa"
+"137"	"Phytophthora inundata"	"Monocelis fusca"	"Podon intermedius"
+"138"	"Phytophthora vesicula"	"Monocorophium acherusicum"	"Podon leuckartii"
+"139"	"Platichthys flesus"	"Monocorophium insidiosum"	"Polydora cornuta"
+"140"	"Platynereis dumerilii"	"Mya arenaria"	"Polysiphonia elongata"
+"141"	"Pleopis polyphemoides"	"Myoxocephalus scorpius"	"Pomatoschistus pictus"
+"142"	"Pleuronectes platessa"	"Myrianida prolifera"	"Prorocentrum triestinum"
+"143"	"Polycera quadrilineata"	"Myrionema strangulans"	"Psammechinus miliaris"
+"144"	"Polydora cornuta"	"Mytilus edulis_trossulus"	"Pseudocalanus acuspes"
+"145"	"Polyides rotunda"	"Mytilus trossulus"	"Pseudocalanus elongatus"
+"146"	"Polysiphonia elongata"	"Nais elinguis"	"Pseudochattonella verruculosa"
+"147"	"Pomatoschistus minutus_microps"	"Nannochloropsis gaditana_oculata"	"Punctaria latifolia"
+"148"	"Pomatoschistus pictus"	"Nannochloropsis granulata"	"Pungitius pungitius_ laevis"
+"149"	"Prorocentrum triestinum"	"Nassarius nitidus"	"Pusillina inconspicua_sarsii"
+"150"	"Psammechinus miliaris"	"Nemalion multifidum"	"Pycnococcus provasolii"
+"151"	"Pseudocalanus acuspes"	"Neogobius melanostomus"	"Pylaiella littoralis"
+"152"	"Pseudocalanus elongatus"	"Nereimyra punctata"	"Ralfsia robertii"
+"153"	"Pseudochattonella verruculosa"	"Nerophis ophidion"	"Rhodomela confervoides"
+"154"	"Punctaria latifolia"	"Obelia dichotoma"	"Rhodotorula mucilaginosa"
+"155"	"Pungitius pungitius_ laevis"	"Obelia dichotoma_longissima"	"Salmo trutta"
+"156"	"Pusillina inconspicua_sarsii"	"Oithona similis"	"Sarsia tubulosa"
+"157"	"Pycnococcus provasolii"	"Ophiura albida"	"Scoloplos armiger"
+"158"	"Pylaiella littoralis"	"Panagrolaimus paetzoldi"	"Semibalanus balanoides"
+"159"	"Ralfsia robertii"	"Paracalanus parvus"	"Skeletonema marinoi_dohrnii"
+"160"	"Rhodophysema georgei"	"Paraonis fulgens"	"Skeletonema pseudocostatum"
+"161"	"Salmo trutta"	"Parvamoeba rugata"	"Spermothamnion repens"
+"162"	"Scoloplos armiger"	"Parvicardium exiguum"	"Sphacelaria cirrosa"
+"163"	"Scytosiphon lomentaria"	"Pectinaria auricoma"	"Spisula subtruncata"
+"164"	"Skeletonema marinoi_dohrnii"	"Pellucidodinium psammophilum"	"Squamamoeba japonica"
+"165"	"Skeletonema pseudocostatum"	"Penilia avirostris"	"Streblospio benedicti"
+"166"	"Sphacelaria cirrosa"	"Peringia ulvae"	"Striaria attenuata"
+"167"	"Spisula subtruncata"	"Petalonia fascia"	"Syngnathus typhle"
+"168"	"Squamamoeba japonica"	"Petricolaria pholadiformis"	"Tachidius discipes"
+"169"	"Streblospio benedicti"	"Phaeocystis globosa"	"Temora longicornis"
+"170"	"Striaria attenuata"	"Phyllodoce groenlandica_mucosa"	"Togula jolla"
+"171"	"Tachidius discipes"	"Phytophthora cryptogea_gonapodyides"	"Tortanus discaudatus"
+"172"	"Temora longicornis"	"Phytophthora inundata"	"Varicorbula gibba"
+"173"	"Tergipes tergipes"	"Phytophthora vesicula"	"Venerupis corrugata"
+"174"	"Togula jolla"	"Platichthys flesus"	"Vertebrata byssoides"
+"175"	"Varicorbula gibba"	"Platynereis dumerilii"	"Zoarces viviparus"
+"176"	"Venerupis corrugata"	"Pleopis polyphemoides"	"Zonorhynchus seminascatus"
+"177"	"Vertebrata byssoides"	"Pleuronectes platessa"	NA
+"178"	"Zoarces viviparus"	"Podon intermedius"	NA
+"179"	"Zonorhynchus seminascatus"	"Polydora cornuta"	NA
+"180"	NA	"Polyides rotunda"	NA
+"181"	NA	"Polysiphonia elongata"	NA
+"182"	NA	"Polysiphonia flexicaulis"	NA
+"183"	NA	"Pomatoschistus pictus"	NA
+"184"	NA	"Prorocentrum triestinum"	NA
+"185"	NA	"Psammechinus miliaris"	NA
+"186"	NA	"Pseudocalanus acuspes"	NA
+"187"	NA	"Pseudocalanus elongatus"	NA
+"188"	NA	"Pseudochattonella verruculosa"	NA
+"189"	NA	"Punctaria latifolia"	NA
+"190"	NA	"Pungitius pungitius_ laevis"	NA
+"191"	NA	"Purpureocillium lilacinum"	NA
+"192"	NA	"Pusillina inconspicua_sarsii"	NA
+"193"	NA	"Pycnococcus provasolii"	NA
+"194"	NA	"Pylaiella littoralis"	NA
+"195"	NA	"Ralfsia robertii"	NA
+"196"	NA	"Recurvirostra avosetta"	NA
+"197"	NA	"Rhodomela confervoides"	NA
+"198"	NA	"Rhodophysema georgei"	NA
+"199"	NA	"Rhodotorula mucilaginosa"	NA
+"200"	NA	"Salmo salar"	NA
+"201"	NA	"Salmo trutta"	NA
+"202"	NA	"Sarsia tubulosa"	NA
+"203"	NA	"Scoloplos armiger"	NA
+"204"	NA	"Scomber scombrus"	NA
+"205"	NA	"Scophthalmus maximus"	NA
+"206"	NA	"Scytosiphon lomentaria"	NA
+"207"	NA	"Semibalanus balanoides"	NA
+"208"	NA	"Skeletonema marinoi_dohrnii"	NA
+"209"	NA	"Skeletonema menzelii"	NA
+"210"	NA	"Skeletonema pseudocostatum"	NA
+"211"	NA	"Spermothamnion repens"	NA
+"212"	NA	"Sphacelaria cirrosa"	NA
+"213"	NA	"Spisula subtruncata"	NA
+"214"	NA	"Spongonema tomentosum"	NA
+"215"	NA	"Sprattus sprattus"	NA
+"216"	NA	"Squamamoeba japonica"	NA
+"217"	NA	"Streblospio benedicti"	NA
+"218"	NA	"Syngnathus typhle"	NA
+"219"	NA	"Tachidius discipes"	NA
+"220"	NA	"Temora longicornis"	NA
+"221"	NA	"Tenellia adspersa"	NA
+"222"	NA	"Teredo navalis"	NA
+"223"	NA	"Tergipes tergipes"	NA
+"224"	NA	"Togula jolla"	NA
+"225"	NA	"Vertebrata byssoides"	NA
+"226"	NA	"Xeroplexa intersecta"	NA
+"227"	NA	"Zoarces viviparus"	NA
+"228"	NA	"Zonorhynchus seminascatus"	NA

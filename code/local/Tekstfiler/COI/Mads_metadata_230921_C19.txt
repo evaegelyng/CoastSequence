@@ -1,0 +1,302 @@
+Root	Community	Cluster	Season	Habitat	Substrate	Lat	Lon	Geographic_Order	Sub_Area	New_Area	dist_from_C33.km
+2C33RB	2C33RB	33	autumn	rocks	sediment	55.02055	14.91195	1	Baltic Sea	Baltic Sea	0
+2C33RW	2C33RW	33	autumn	rocks	water	55.02055	14.91195	2	Baltic Sea	Baltic Sea	0
+2C33SB	2C33SB	33	autumn	sand	sediment	55.02055	14.91195	3	Baltic Sea	Baltic Sea	0
+2C33SW	2C33SW	33	autumn	sand	water	55.02055	14.91195	4	Baltic Sea	Baltic Sea	0
+C33RB	C33RB	33	spring	rocks	sediment	55.02055	14.91195	5	Baltic Sea	Baltic Sea	0
+C33SB	C33SB	33	spring	sand	sediment	55.02055	14.91195	7	Baltic Sea	Baltic Sea	0
+C33SW	C33SW	33	spring	sand	water	55.02055	14.91195	8	Baltic Sea	Baltic Sea	0
+2C32RB	2C32RB	32	autumn	rocks	sediment	55.25714	14.819494	9	Baltic Sea	Baltic Sea	46.45742
+2C32RW	2C32RW	32	autumn	rocks	water	55.25714	14.819494	10	Baltic Sea	Baltic Sea	46.45742
+2C32SB	2C32SB	32	autumn	sand	sediment	55.25714	14.819494	11	Baltic Sea	Baltic Sea	46.45742
+2C32SW	2C32SW	32	autumn	sand	water	55.25714	14.819494	12	Baltic Sea	Baltic Sea	46.45742
+C32RB	C32RB	32	spring	rocks	sediment	55.25714	14.819494	13	Baltic Sea	Baltic Sea	46.45742
+C32RW	C32RW	32	spring	rocks	water	55.25714	14.819494	14	Baltic Sea	Baltic Sea	46.45742
+C32SB	C32SB	32	spring	sand	sediment	55.25714	14.819494	15	Baltic Sea	Baltic Sea	46.45742
+C32SW	C32SW	32	spring	sand	water	55.25714	14.819494	16	Baltic Sea	Baltic Sea	46.45742
+2C23RB	2C23RB	23	autumn	rocks	sediment	54.9502	12.475707	17	Baltic Sea	Baltic Sea	159.5132
+2C23RW	2C23RW	23	autumn	rocks	water	54.9502	12.475707	18	Baltic Sea	Baltic Sea	159.5132
+2C23SB	2C23SB	23	autumn	sand	sediment	54.9502	12.475707	19	Baltic Sea	Baltic Sea	159.5132
+2C23SW	2C23SW	23	autumn	sand	water	54.9502	12.475707	20	Baltic Sea	Baltic Sea	159.5132
+C23RB	C23RB	23	spring	rocks	sediment	54.9502	12.475707	21	Baltic Sea	Baltic Sea	159.5132
+C23RW	C23RW	23	spring	rocks	water	54.9502	12.475707	22	Baltic Sea	Baltic Sea	159.5132
+C23SB	C23SB	23	spring	sand	sediment	54.9502	12.475707	23	Baltic Sea	Baltic Sea	159.5132
+C23SW	C23SW	23	spring	sand	water	54.9502	12.475707	24	Baltic Sea	Baltic Sea	159.5132
+2C24EB	2C24EB	24	autumn	eelgrass	sediment	55.1359	12.107394	25	Baltic Sea	Baltic Sea	180.9443
+2C24EW	2C24EW	24	autumn	eelgrass	water	55.1359	12.107394	26	Baltic Sea	Baltic Sea	180.9443
+2C24RB	2C24RB	24	autumn	rocks	sediment	55.1359	12.107394	27	Baltic Sea	Baltic Sea	180.9443
+2C24RW	2C24RW	24	autumn	rocks	water	55.1359	12.107394	28	Baltic Sea	Baltic Sea	180.9443
+2C24SB	2C24SB	24	autumn	sand	sediment	55.1359	12.107394	29	Baltic Sea	Baltic Sea	180.9443
+C24EB	C24EB	24	spring	eelgrass	sediment	55.1359	12.107394	31	Baltic Sea	Baltic Sea	180.9443
+C24EW	C24EW	24	spring	eelgrass	water	55.1359	12.107394	32	Baltic Sea	Baltic Sea	180.9443
+C24RB	C24RB	24	spring	rocks	sediment	55.1359	12.107394	33	Baltic Sea	Baltic Sea	180.9443
+C24RW	C24RW	24	spring	rocks	water	55.1359	12.107394	34	Baltic Sea	Baltic Sea	180.9443
+C24SB	C24SB	24	spring	sand	sediment	55.1359	12.107394	35	Baltic Sea	Baltic Sea	180.9443
+C24SW	C24SW	24	spring	sand	water	55.1359	12.107394	36	Baltic Sea	Baltic Sea	180.9443
+2C25EB	2C25EB	25	autumn	eelgrass	sediment	55.56932	12.288887	37	The Sound	Baltic Sea	182.8389
+2C25RB	2C25RB	25	autumn	rocks	sediment	55.56932	12.288887	39	The Sound	Baltic Sea	182.8389
+2C25RW	2C25RW	25	autumn	rocks	water	55.56932	12.288887	40	The Sound	Baltic Sea	182.8389
+2C25SB	2C25SB	25	autumn	sand	sediment	55.56932	12.288887	41	The Sound	Baltic Sea	182.8389
+2C25SW	2C25SW	25	autumn	sand	water	55.56932	12.288887	42	The Sound	Baltic Sea	182.8389
+C25EB	C25EB	25	spring	eelgrass	sediment	55.56932	12.288887	43	The Sound	Baltic Sea	182.8389
+C25EW	C25EW	25	spring	eelgrass	water	55.56932	12.288887	44	The Sound	Baltic Sea	182.8389
+C25RB	C25RB	25	spring	rocks	sediment	55.56932	12.288887	45	The Sound	Baltic Sea	182.8389
+C25RW	C25RW	25	spring	rocks	water	55.56932	12.288887	46	The Sound	Baltic Sea	182.8389
+C25SB	C25SB	25	spring	sand	sediment	55.56932	12.288887	47	The Sound	Baltic Sea	182.8389
+C25SW	C25SW	25	spring	sand	water	55.56932	12.288887	48	The Sound	Baltic Sea	182.8389
+2C26EB	2C26EB	26	autumn	eelgrass	sediment	55.75147	12.593566	49	The Sound	Kattegat	186.8034
+2C26EW	2C26EW	26	autumn	eelgrass	water	55.75147	12.593566	50	The Sound	Kattegat	186.8034
+2C26RB	2C26RB	26	autumn	rocks	sediment	55.75147	12.593566	51	The Sound	Kattegat	186.8034
+2C26RW	2C26RW	26	autumn	rocks	water	55.75147	12.593566	52	The Sound	Kattegat	186.8034
+2C26SB	2C26SB	26	autumn	sand	sediment	55.75147	12.593566	53	The Sound	Kattegat	186.8034
+2C26SW	2C26SW	26	autumn	sand	water	55.75147	12.593566	54	The Sound	Kattegat	186.8034
+C26EB	C26EB	26	spring	eelgrass	sediment	55.75147	12.593566	55	The Sound	Kattegat	186.8034
+C26EW	C26EW	26	spring	eelgrass	water	55.75147	12.593566	56	The Sound	Kattegat	186.8034
+C26RB	C26RB	26	spring	rocks	sediment	55.75147	12.593566	57	The Sound	Kattegat	186.8034
+C26RW	C26RW	26	spring	rocks	water	55.75147	12.593566	58	The Sound	Kattegat	186.8034
+C26SB	C26SB	26	spring	sand	sediment	55.75147	12.593566	59	The Sound	Kattegat	186.8034
+C26SW	C26SW	26	spring	sand	water	55.75147	12.593566	60	The Sound	Kattegat	186.8034
+2C27EB	2C27EB	27	autumn	eelgrass	sediment	56.04451	12.609195	61	The Sound	Kattegat	219.3034
+2C27EW	2C27EW	27	autumn	eelgrass	water	56.04451	12.609195	62	The Sound	Kattegat	219.3034
+2C27RB	2C27RB	27	autumn	rocks	sediment	56.04451	12.609195	63	The Sound	Kattegat	219.3034
+2C27RW	2C27RW	27	autumn	rocks	water	56.04451	12.609195	64	The Sound	Kattegat	219.3034
+2C27SB	2C27SB	27	autumn	sand	sediment	56.04451	12.609195	65	The Sound	Kattegat	219.3034
+2C27SW	2C27SW	27	autumn	sand	water	56.04451	12.609195	66	The Sound	Kattegat	219.3034
+C27EB	C27EB	27	spring	eelgrass	sediment	56.04451	12.609195	67	The Sound	Kattegat	219.3034
+C27EW	C27EW	27	spring	eelgrass	water	56.04451	12.609195	68	The Sound	Kattegat	219.3034
+C27RB	C27RB	27	spring	rocks	sediment	56.04451	12.609195	69	The Sound	Kattegat	219.3034
+C27RW	C27RW	27	spring	rocks	water	56.04451	12.609195	70	The Sound	Kattegat	219.3034
+C27SB	C27SB	27	spring	sand	sediment	56.04451	12.609195	71	The Sound	Kattegat	219.3034
+C27SW	C27SW	27	spring	sand	water	56.04451	12.609195	72	The Sound	Kattegat	219.3034
+2C21EB	2C21EB	21	autumn	eelgrass	sediment	54.84749	11.479693	73	Great Belt	Baltic Sea	227.6274
+2C21EW	2C21EW	21	autumn	eelgrass	water	54.84749	11.479693	74	Great Belt	Baltic Sea	227.6274
+2C21RB	2C21RB	21	autumn	rocks	sediment	54.84749	11.479693	75	Great Belt	Baltic Sea	227.6274
+2C21RW	2C21RW	21	autumn	rocks	water	54.84749	11.479693	76	Great Belt	Baltic Sea	227.6274
+2C21SB	2C21SB	21	autumn	sand	sediment	54.84749	11.479693	77	Great Belt	Baltic Sea	227.6274
+2C21SW	2C21SW	21	autumn	sand	water	54.84749	11.479693	78	Great Belt	Baltic Sea	227.6274
+C21EB	C21EB	21	spring	eelgrass	sediment	54.84749	11.479693	79	Great Belt	Baltic Sea	227.6274
+C21EW	C21EW	21	spring	eelgrass	water	54.84749	11.479693	80	Great Belt	Baltic Sea	227.6274
+C21RB	C21RB	21	spring	rocks	sediment	54.84749	11.479693	81	Great Belt	Baltic Sea	227.6274
+C21RW	C21RW	21	spring	rocks	water	54.84749	11.479693	82	Great Belt	Baltic Sea	227.6274
+C21SB	C21SB	21	spring	sand	sediment	54.84749	11.479693	83	Great Belt	Baltic Sea	227.6274
+C21SW	C21SW	21	spring	sand	water	54.84749	11.479693	84	Great Belt	Baltic Sea	227.6274
+2C20EB	2C20EB	20	autumn	eelgrass	sediment	54.88502	11.013504	85	Great Belt	Baltic Sea	258.1143
+2C20EW	2C20EW	20	autumn	eelgrass	water	54.88502	11.013504	86	Great Belt	Baltic Sea	258.1143
+2C20RB	2C20RB	20	autumn	rocks	sediment	54.88502	11.013504	87	Great Belt	Baltic Sea	258.1143
+2C20RW	2C20RW	20	autumn	rocks	water	54.88502	11.013504	88	Great Belt	Baltic Sea	258.1143
+2C20SB	2C20SB	20	autumn	sand	sediment	54.88502	11.013504	89	Great Belt	Baltic Sea	258.1143
+2C20SW	2C20SW	20	autumn	sand	water	54.88502	11.013504	90	Great Belt	Baltic Sea	258.1143
+C20EB	C20EB	20	spring	eelgrass	sediment	54.88502	11.013504	91	Great Belt	Baltic Sea	258.1143
+C20EW	C20EW	20	spring	eelgrass	water	54.88502	11.013504	92	Great Belt	Baltic Sea	258.1143
+C20RB	C20RB	20	spring	rocks	sediment	54.88502	11.013504	93	Great Belt	Baltic Sea	258.1143
+C20RW	C20RW	20	spring	rocks	water	54.88502	11.013504	94	Great Belt	Baltic Sea	258.1143
+C20SB	C20SB	20	spring	sand	sediment	54.88502	11.013504	95	Great Belt	Baltic Sea	258.1143
+C20SW	C20SW	20	spring	sand	water	54.88502	11.013504	96	Great Belt	Baltic Sea	258.1143
+2C31EB	2C31EB	31	autumn	eelgrass	sediment	55.34755	11.101177	97	Great Belt	Kattegat	263.8756
+2C31EW	2C31EW	31	autumn	eelgrass	water	55.34755	11.101177	98	Great Belt	Kattegat	263.8756
+2C31RB	2C31RB	31	autumn	rocks	sediment	55.34755	11.101177	99	Great Belt	Kattegat	263.8756
+2C31RW	2C31RW	31	autumn	rocks	water	55.34755	11.101177	100	Great Belt	Kattegat	263.8756
+2C31SB	2C31SB	31	autumn	sand	sediment	55.34755	11.101177	101	Great Belt	Kattegat	263.8756
+C31EB	C31EB	31	spring	eelgrass	sediment	55.34755	11.101177	103	Great Belt	Kattegat	263.8756
+C31EW	C31EW	31	spring	eelgrass	water	55.34755	11.101177	104	Great Belt	Kattegat	263.8756
+C31RB	C31RB	31	spring	rocks	sediment	55.34755	11.101177	105	Great Belt	Kattegat	263.8756
+C31RW	C31RW	31	spring	rocks	water	55.34755	11.101177	106	Great Belt	Kattegat	263.8756
+C31SB	C31SB	31	spring	sand	sediment	55.34755	11.101177	107	Great Belt	Kattegat	263.8756
+C31SW	C31SW	31	spring	sand	water	55.34755	11.101177	108	Great Belt	Kattegat	263.8756
+2C28EB	2C28EB	28	autumn	eelgrass	sediment	55.96898	11.846132	109	Kattegat	Kattegat	275.6713
+2C28EW	2C28EW	28	autumn	eelgrass	water	55.96898	11.846132	110	Kattegat	Kattegat	275.6713
+2C28RB	2C28RB	28	autumn	rocks	sediment	55.96898	11.846132	111	Kattegat	Kattegat	275.6713
+2C28RW	2C28RW	28	autumn	rocks	water	55.96898	11.846132	112	Kattegat	Kattegat	275.6713
+2C28SB	2C28SB	28	autumn	sand	sediment	55.96898	11.846132	113	Kattegat	Kattegat	275.6713
+C28EB	C28EB	28	spring	eelgrass	sediment	55.96898	11.846132	115	Kattegat	Kattegat	275.6713
+C28EW	C28EW	28	spring	eelgrass	water	55.96898	11.846132	116	Kattegat	Kattegat	275.6713
+C28RB	C28RB	28	spring	rocks	sediment	55.96898	11.846132	117	Kattegat	Kattegat	275.6713
+C28RW	C28RW	28	spring	rocks	water	55.96898	11.846132	118	Kattegat	Kattegat	275.6713
+C28SB	C28SB	28	spring	sand	sediment	55.96898	11.846132	119	Kattegat	Kattegat	275.6713
+C28SW	C28SW	28	spring	sand	water	55.96898	11.846132	120	Kattegat	Kattegat	275.6713
+2C19EB	2C19EB	19	autumn	eelgrass	sediment	55.06489	10.21874	121	Little Belt	Kattegat	315.087
+2C19EW	2C19EW	19	autumn	eelgrass	water	55.06489	10.21874	122	Little Belt	Kattegat	315.087
+2C19RB	2C19RB	19	autumn	rocks	sediment	55.06489	10.21874	123	Little Belt	Kattegat	315.087
+2C19RW	2C19RW	19	autumn	rocks	water	55.06489	10.21874	124	Little Belt	Kattegat	315.087
+2C19SB	2C19SB	19	autumn	sand	sediment	55.06489	10.21874	125	Little Belt	Kattegat	315.087
+2C19SW	2C19SW	19	autumn	sand	water	55.06489	10.21874	126	Little Belt	Kattegat	315.087
+C19EB	C19EB	19	spring	eelgrass	sediment	55.06489	10.21874	127	Little Belt	Kattegat	315.087
+C19EW	C19EW	19	spring	eelgrass	water	55.06489	10.21874	128	Little Belt	Kattegat	315.087
+C19RB	C19RB	19	spring	rocks	sediment	55.06489	10.21874	129	Little Belt	Kattegat	315.087
+C19RW	C19RW	19	spring	rocks	water	55.06489	10.21874	130	Little Belt	Kattegat	315.087
+C19SB	C19SB	19	spring	sand	sediment	55.06489	10.21874	131	Little Belt	Kattegat	315.087
+C19SW	C19SW	19	spring	sand	water	55.06489	10.21874	132	Little Belt	Kattegat	315.087
+2C29EB	2C29EB	29	autumn	eelgrass	sediment	55.68357	12.073107	133	Kattegat	Kattegat	315.385
+2C29EW	2C29EW	29	autumn	eelgrass	water	55.68357	12.073107	134	Kattegat	Kattegat	315.385
+2C29RB	2C29RB	29	autumn	rocks	sediment	55.68357	12.073107	135	Kattegat	Kattegat	315.385
+2C29RW	2C29RW	29	autumn	rocks	water	55.68357	12.073107	136	Kattegat	Kattegat	315.385
+2C29SB	2C29SB	29	autumn	sand	sediment	55.68357	12.073107	137	Kattegat	Kattegat	315.385
+2C29SW	2C29SW	29	autumn	sand	water	55.68357	12.073107	138	Kattegat	Kattegat	315.385
+C29EB	C29EB	29	spring	eelgrass	sediment	55.68357	12.073107	139	Kattegat	Kattegat	315.385
+C29EW	C29EW	29	spring	eelgrass	water	55.68357	12.073107	140	Kattegat	Kattegat	315.385
+C29RB	C29RB	29	spring	rocks	sediment	55.68357	12.073107	141	Kattegat	Kattegat	315.385
+C29RW	C29RW	29	spring	rocks	water	55.68357	12.073107	142	Kattegat	Kattegat	315.385
+C29SB	C29SB	29	spring	sand	sediment	55.68357	12.073107	143	Kattegat	Kattegat	315.385
+C29SW	C29SW	29	spring	sand	water	55.68357	12.073107	144	Kattegat	Kattegat	315.385
+2C16EB	2C16EB	16	autumn	eelgrass	sediment	55.49418	10.618222	145	Samso Belt	Kattegat	317.1916
+2C16RB	2C16RB	16	autumn	rocks	sediment	55.49418	10.618222	147	Samso Belt	Kattegat	317.1916
+2C16RW	2C16RW	16	autumn	rocks	water	55.49418	10.618222	148	Samso Belt	Kattegat	317.1916
+2C16SB	2C16SB	16	autumn	sand	sediment	55.49418	10.618222	149	Samso Belt	Kattegat	317.1916
+2C16SW	2C16SW	16	autumn	sand	water	55.49418	10.618222	150	Samso Belt	Kattegat	317.1916
+C16EB	C16EB	16	spring	eelgrass	sediment	55.49418	10.618222	151	Samso Belt	Kattegat	317.1916
+C16EW	C16EW	16	spring	eelgrass	water	55.49418	10.618222	152	Samso Belt	Kattegat	317.1916
+C16RB	C16RB	16	spring	rocks	sediment	55.49418	10.618222	153	Samso Belt	Kattegat	317.1916
+C16RW	C16RW	16	spring	rocks	water	55.49418	10.618222	154	Samso Belt	Kattegat	317.1916
+C16SB	C16SB	16	spring	sand	sediment	55.49418	10.618222	155	Samso Belt	Kattegat	317.1916
+C16SW	C16SW	16	spring	sand	water	55.49418	10.618222	156	Samso Belt	Kattegat	317.1916
+2C30EB	2C30EB	30	autumn	eelgrass	sediment	55.75885	11.349378	157	Great Belt	Kattegat	321.6292
+2C30EW	2C30EW	30	autumn	eelgrass	water	55.75885	11.349378	158	Great Belt	Kattegat	321.6292
+2C30RB	2C30RB	30	autumn	rocks	sediment	55.75885	11.349378	159	Great Belt	Kattegat	321.6292
+2C30RW	2C30RW	30	autumn	rocks	water	55.75885	11.349378	160	Great Belt	Kattegat	321.6292
+2C30SB	2C30SB	30	autumn	sand	sediment	55.75885	11.349378	161	Great Belt	Kattegat	321.6292
+2C30SW	2C30SW	30	autumn	sand	water	55.75885	11.349378	162	Great Belt	Kattegat	321.6292
+C30EB	C30EB	30	spring	eelgrass	sediment	55.75885	11.349378	163	Great Belt	Kattegat	321.6292
+C30EW	C30EW	30	spring	eelgrass	water	55.75885	11.349378	164	Great Belt	Kattegat	321.6292
+C30RB	C30RB	30	spring	rocks	sediment	55.75885	11.349378	165	Great Belt	Kattegat	321.6292
+C30RW	C30RW	30	spring	rocks	water	55.75885	11.349378	166	Great Belt	Kattegat	321.6292
+C30SB	C30SB	30	spring	sand	sediment	55.75885	11.349378	167	Great Belt	Kattegat	321.6292
+C30SW	C30SW	30	spring	sand	water	55.75885	11.349378	168	Great Belt	Kattegat	321.6292
+2C13RB	2C13RB	13	autumn	rocks	sediment	56.44816	10.955088	169	Kattegat	Kattegat	333.7817
+2C13RW	2C13RW	13	autumn	rocks	water	56.44816	10.955088	170	Kattegat	Kattegat	333.7817
+2C13SB	2C13SB	13	autumn	sand	sediment	56.44816	10.955088	171	Kattegat	Kattegat	333.7817
+2C13SW	2C13SW	13	autumn	sand	water	56.44816	10.955088	172	Kattegat	Kattegat	333.7817
+C13RB	C13RB	13	spring	rocks	sediment	56.44816	10.955088	173	Kattegat	Kattegat	333.7817
+C13RW	C13RW	13	spring	rocks	water	56.44816	10.955088	174	Kattegat	Kattegat	333.7817
+C13SB	C13SB	13	spring	sand	sediment	56.44816	10.955088	175	Kattegat	Kattegat	333.7817
+C13SW	C13SW	13	spring	sand	water	56.44816	10.955088	176	Kattegat	Kattegat	333.7817
+2C18RB	2C18RB	18	autumn	rocks	sediment	55.11826	9.488224	177	Little Belt	Kattegat	363.0035
+2C18RW	2C18RW	18	autumn	rocks	water	55.11826	9.488224	178	Little Belt	Kattegat	363.0035
+2C18SB	2C18SB	18	autumn	sand	sediment	55.11826	9.488224	179	Little Belt	Kattegat	363.0035
+2C18SW	2C18SW	18	autumn	sand	water	55.11826	9.488224	180	Little Belt	Kattegat	363.0035
+C18RB	C18RB	18	spring	rocks	sediment	55.11826	9.488224	181	Little Belt	Kattegat	363.0035
+C18RW	C18RW	18	spring	rocks	water	55.11826	9.488224	182	Little Belt	Kattegat	363.0035
+C18SB	C18SB	18	spring	sand	sediment	55.11826	9.488224	183	Little Belt	Kattegat	363.0035
+C18SW	C18SW	18	spring	sand	water	55.11826	9.488224	184	Little Belt	Kattegat	363.0035
+2C15RB	2C15RB	15	autumn	rocks	sediment	55.70038	9.710981	185	Samso Belt	Kattegat	365.5222
+2C15RW	2C15RW	15	autumn	rocks	water	55.70038	9.710981	186	Samso Belt	Kattegat	365.5222
+2C15SB	2C15SB	15	autumn	sand	sediment	55.70038	9.710981	187	Samso Belt	Kattegat	365.5222
+2C15SW	2C15SW	15	autumn	sand	water	55.70038	9.710981	188	Samso Belt	Kattegat	365.5222
+C15RB	C15RB	15	spring	rocks	sediment	55.70038	9.710981	189	Samso Belt	Kattegat	365.5222
+C15RW	C15RW	15	spring	rocks	water	55.70038	9.710981	190	Samso Belt	Kattegat	365.5222
+C15SB	C15SB	15	spring	sand	sediment	55.70038	9.710981	191	Samso Belt	Kattegat	365.5222
+C15SW	C15SW	15	spring	sand	water	55.70038	9.710981	192	Samso Belt	Kattegat	365.5222
+2C14RB	2C14RB	14	autumn	rocks	sediment	56.12285	10.223454	193	Samso Belt	Kattegat	367.7272
+2C14RW	2C14RW	14	autumn	rocks	water	56.12285	10.223454	194	Samso Belt	Kattegat	367.7272
+2C14SB	2C14SB	14	autumn	sand	sediment	56.12285	10.223454	195	Samso Belt	Kattegat	367.7272
+2C14SW	2C14SW	14	autumn	sand	water	56.12285	10.223454	196	Samso Belt	Kattegat	367.7272
+C14RB	C14RB	14	spring	rocks	sediment	56.12285	10.223454	197	Samso Belt	Kattegat	367.7272
+C14RW	C14RW	14	spring	rocks	water	56.12285	10.223454	198	Samso Belt	Kattegat	367.7272
+C14SB	C14SB	14	spring	sand	sediment	56.12285	10.223454	199	Samso Belt	Kattegat	367.7272
+C14SW	C14SW	14	spring	sand	water	56.12285	10.223454	200	Samso Belt	Kattegat	367.7272
+2C17EB	2C17EB	17	autumn	eelgrass	sediment	55.4722	9.724384	201	Little Belt	Kattegat	369.8452
+2C17EW	2C17EW	17	autumn	eelgrass	water	55.4722	9.724384	202	Little Belt	Kattegat	369.8452
+2C17RB	2C17RB	17	autumn	rocks	sediment	55.4722	9.724384	203	Little Belt	Kattegat	369.8452
+2C17RW	2C17RW	17	autumn	rocks	water	55.4722	9.724384	204	Little Belt	Kattegat	369.8452
+2C17SB	2C17SB	17	autumn	sand	sediment	55.4722	9.724384	205	Little Belt	Kattegat	369.8452
+2C17SW	2C17SW	17	autumn	sand	water	55.4722	9.724384	206	Little Belt	Kattegat	369.8452
+C17EB	C17EB	17	spring	eelgrass	sediment	55.4722	9.724384	207	Little Belt	Kattegat	369.8452
+C17EW	C17EW	17	spring	eelgrass	water	55.4722	9.724384	208	Little Belt	Kattegat	369.8452
+C17RB	C17RB	17	spring	rocks	sediment	55.4722	9.724384	209	Little Belt	Kattegat	369.8452
+C17RW	C17RW	17	spring	rocks	water	55.4722	9.724384	210	Little Belt	Kattegat	369.8452
+C17SB	C17SB	17	spring	sand	sediment	55.4722	9.724384	211	Little Belt	Kattegat	369.8452
+C17SW	C17SW	17	spring	sand	water	55.4722	9.724384	212	Little Belt	Kattegat	369.8452
+2C12RB	2C12RB	12	autumn	rocks	sediment	56.60705	10.297121	213	Kattegat	Kattegat	378.2948
+2C12RW	2C12RW	12	autumn	rocks	water	56.60705	10.297121	214	Kattegat	Kattegat	378.2948
+2C12SB	2C12SB	12	autumn	sand	sediment	56.60705	10.297121	215	Kattegat	Kattegat	378.2948
+2C12SW	2C12SW	12	autumn	sand	water	56.60705	10.297121	216	Kattegat	Kattegat	378.2948
+C12RB	C12RB	12	spring	rocks	sediment	56.60705	10.297121	217	Kattegat	Kattegat	378.2948
+C12RW	C12RW	12	spring	rocks	water	56.60705	10.297121	218	Kattegat	Kattegat	378.2948
+C12SB	C12SB	12	spring	sand	sediment	56.60705	10.297121	219	Kattegat	Kattegat	378.2948
+C12SW	C12SW	12	spring	sand	water	56.60705	10.297121	220	Kattegat	Kattegat	378.2948
+2C11RB	2C11RB	11	autumn	rocks	sediment	56.7972	10.28607	221	Kattegat	Kattegat	386.8643
+2C11RW	2C11RW	11	autumn	rocks	water	56.7972	10.28607	222	Kattegat	Kattegat	386.8643
+2C11SB	2C11SB	11	autumn	sand	sediment	56.7972	10.28607	223	Kattegat	Kattegat	386.8643
+C11RB	C11RB	11	spring	rocks	sediment	56.7972	10.28607	225	Kattegat	Kattegat	386.8643
+C11RW	C11RW	11	spring	rocks	water	56.7972	10.28607	226	Kattegat	Kattegat	386.8643
+C11SB	C11SB	11	spring	sand	sediment	56.7972	10.28607	227	Kattegat	Kattegat	386.8643
+C11SW	C11SW	11	spring	sand	water	56.7972	10.28607	228	Kattegat	Kattegat	386.8643
+2C7RB	2C7RB	7	autumn	rocks	sediment	57.32298	11.132922	229	Kattegat	Kattegat	391.9147
+2C7SB	2C7SB	7	autumn	sand	sediment	57.32298	11.132922	231	Kattegat	Kattegat	391.9147
+2C7SW	2C7SW	7	autumn	sand	water	57.32298	11.132922	232	Kattegat	Kattegat	391.9147
+C7RB	C7RB	7	spring	rocks	sediment	57.32298	11.132922	233	Kattegat	Kattegat	391.9147
+C7RW	C7RW	7	spring	rocks	water	57.32298	11.132922	234	Kattegat	Kattegat	391.9147
+C7SB	C7SB	7	spring	sand	sediment	57.32298	11.132922	235	Kattegat	Kattegat	391.9147
+C7SW	C7SW	7	spring	sand	water	57.32298	11.132922	236	Kattegat	Kattegat	391.9147
+2C6RB	2C6RB	6	autumn	rocks	sediment	57.31915	10.532144	237	Kattegat	Kattegat	410.844
+2C6RW	2C6RW	6	autumn	rocks	water	57.31915	10.532144	238	Kattegat	Kattegat	410.844
+2C6SB	2C6SB	6	autumn	sand	sediment	57.31915	10.532144	239	Kattegat	Kattegat	410.844
+2C6SW	2C6SW	6	autumn	sand	water	57.31915	10.532144	240	Kattegat	Kattegat	410.844
+C6RB	C6RB	6	spring	rocks	sediment	57.31915	10.532144	241	Kattegat	Kattegat	410.844
+C6RW	C6RW	6	spring	rocks	water	57.31915	10.532144	242	Kattegat	Kattegat	410.844
+C6SB	C6SB	6	spring	sand	sediment	57.31915	10.532144	243	Kattegat	Kattegat	410.844
+C6SW	C6SW	6	spring	sand	water	57.31915	10.532144	244	Kattegat	Kattegat	410.844
+2C8EB	2C8EB	8	autumn	eelgrass	sediment	57.0103	9.6348	245	Limfjord	Limfjord	445.3668
+2C8EW	2C8EW	8	autumn	eelgrass	water	57.0103	9.6348	246	Limfjord	Limfjord	445.3668
+2C8RB	2C8RB	8	autumn	rocks	sediment	57.0103	9.6348	247	Limfjord	Limfjord	445.3668
+2C8RW	2C8RW	8	autumn	rocks	water	57.0103	9.6348	248	Limfjord	Limfjord	445.3668
+2C8SB	2C8SB	8	autumn	sand	sediment	57.0103	9.6348	249	Limfjord	Limfjord	445.3668
+2C8SW	2C8SW	8	autumn	sand	water	57.0103	9.6348	250	Limfjord	Limfjord	445.3668
+C8EB	C8EB	8	spring	eelgrass	sediment	57.0103	9.6348	251	Limfjord	Limfjord	445.3668
+C8EW	C8EW	8	spring	eelgrass	water	57.0103	9.6348	252	Limfjord	Limfjord	445.3668
+C8RB	C8RB	8	spring	rocks	sediment	57.0103	9.6348	253	Limfjord	Limfjord	445.3668
+C8RW	C8RW	8	spring	rocks	water	57.0103	9.6348	254	Limfjord	Limfjord	445.3668
+C8SB	C8SB	8	spring	sand	sediment	57.0103	9.6348	255	Limfjord	Limfjord	445.3668
+C8SW	C8SW	8	spring	sand	water	57.0103	9.6348	256	Limfjord	Limfjord	445.3668
+2C5RB	2C5RB	5	autumn	rocks	sediment	57.59213	9.947258	257	North Sea	North Sea	492.1952
+2C5RW	2C5RW	5	autumn	rocks	water	57.59213	9.947258	258	North Sea	North Sea	492.1952
+2C5SB	2C5SB	5	autumn	sand	sediment	57.59213	9.947258	259	North Sea	North Sea	492.1952
+2C5SW	2C5SW	5	autumn	sand	water	57.59213	9.947258	260	North Sea	North Sea	492.1952
+C5RB	C5RB	5	spring	rocks	sediment	57.59213	9.947258	261	North Sea	North Sea	492.1952
+C5RW	C5RW	5	spring	rocks	water	57.59213	9.947258	262	North Sea	North Sea	492.1952
+C5SB	C5SB	5	spring	sand	sediment	57.59213	9.947258	263	North Sea	North Sea	492.1952
+C5SW	C5SW	5	spring	sand	water	57.59213	9.947258	264	North Sea	North Sea	492.1952
+2C9EB	2C9EB	9	autumn	eelgrass	sediment	56.71281	9.209116	265	Limfjord	Limfjord	501.0269
+2C9EW	2C9EW	9	autumn	eelgrass	water	56.71281	9.209116	266	Limfjord	Limfjord	501.0269
+2C9RB	2C9RB	9	autumn	rocks	sediment	56.71281	9.209116	267	Limfjord	Limfjord	501.0269
+2C9RW	2C9RW	9	autumn	rocks	water	56.71281	9.209116	268	Limfjord	Limfjord	501.0269
+2C9SB	2C9SB	9	autumn	sand	sediment	56.71281	9.209116	269	Limfjord	Limfjord	501.0269
+2C9SW	2C9SW	9	autumn	sand	water	56.71281	9.209116	270	Limfjord	Limfjord	501.0269
+C9EB	C9EB	9	spring	eelgrass	sediment	56.71281	9.209116	271	Limfjord	Limfjord	501.0269
+C9EW	C9EW	9	spring	eelgrass	water	56.71281	9.209116	272	Limfjord	Limfjord	501.0269
+C9RB	C9RB	9	spring	rocks	sediment	56.71281	9.209116	273	Limfjord	Limfjord	501.0269
+C9RW	C9RW	9	spring	rocks	water	56.71281	9.209116	274	Limfjord	Limfjord	501.0269
+C9SB	C9SB	9	spring	sand	sediment	56.71281	9.209116	275	Limfjord	Limfjord	501.0269
+C9SW	C9SW	9	spring	sand	water	56.71281	9.209116	276	Limfjord	Limfjord	501.0269
+2C10EB	2C10EB	10	autumn	eelgrass	sediment	56.55926	8.615045	277	Limfjord	Limfjord	531.2921
+2C10EW	2C10EW	10	autumn	eelgrass	water	56.55926	8.615045	278	Limfjord	Limfjord	531.2921
+2C10RB	2C10RB	10	autumn	rocks	sediment	56.55926	8.615045	279	Limfjord	Limfjord	531.2921
+2C10RW	2C10RW	10	autumn	rocks	water	56.55926	8.615045	280	Limfjord	Limfjord	531.2921
+2C10SB	2C10SB	10	autumn	sand	sediment	56.55926	8.615045	281	Limfjord	Limfjord	531.2921
+C10EB	C10EB	10	spring	eelgrass	sediment	56.55926	8.615045	283	Limfjord	Limfjord	531.2921
+C10EW	C10EW	10	spring	eelgrass	water	56.55926	8.615045	284	Limfjord	Limfjord	531.2921
+C10RB	C10RB	10	spring	rocks	sediment	56.55926	8.615045	285	Limfjord	Limfjord	531.2921
+C10RW	C10RW	10	spring	rocks	water	56.55926	8.615045	286	Limfjord	Limfjord	531.2921
+C10SB	C10SB	10	spring	sand	sediment	56.55926	8.615045	287	Limfjord	Limfjord	531.2921
+C10SW	C10SW	10	spring	sand	water	56.55926	8.615045	288	Limfjord	Limfjord	531.2921
+2C4RB	2C4RB	4	autumn	rocks	sediment	57.12644	8.615189	289	North Sea	North Sea	588.4757
+2C4RW	2C4RW	4	autumn	rocks	water	57.12644	8.615189	290	North Sea	North Sea	588.4757
+2C4SB	2C4SB	4	autumn	sand	sediment	57.12644	8.615189	291	North Sea	North Sea	588.4757
+2C4SW	2C4SW	4	autumn	sand	water	57.12644	8.615189	292	North Sea	North Sea	588.4757
+C4RB	C4RB	4	spring	rocks	sediment	57.12644	8.615189	293	North Sea	North Sea	588.4757
+C4RW	C4RW	4	spring	rocks	water	57.12644	8.615189	294	North Sea	North Sea	588.4757
+C4SB	C4SB	4	spring	sand	sediment	57.12644	8.615189	295	North Sea	North Sea	588.4757
+C4SW	C4SW	4	spring	sand	water	57.12644	8.615189	296	North Sea	North Sea	588.4757
+2C3RB	2C3RB	3	autumn	rocks	sediment	55.98989	8.120517	297	North Sea	North Sea	632.1162
+2C3RW	2C3RW	3	autumn	rocks	water	55.98989	8.120517	298	North Sea	North Sea	632.1162
+2C3SB	2C3SB	3	autumn	sand	sediment	55.98989	8.120517	299	North Sea	North Sea	632.1162
+2C3SW	2C3SW	3	autumn	sand	water	55.98989	8.120517	300	North Sea	North Sea	632.1162
+C3RB	C3RB	3	spring	rocks	sediment	55.98989	8.120517	301	North Sea	North Sea	632.1162
+C3RW	C3RW	3	spring	rocks	water	55.98989	8.120517	302	North Sea	North Sea	632.1162
+C3SB	C3SB	3	spring	sand	sediment	55.98989	8.120517	303	North Sea	North Sea	632.1162
+C3SW	C3SW	3	spring	sand	water	55.98989	8.120517	304	North Sea	North Sea	632.1162
+2C1RB	2C1RB	1	autumn	rocks	sediment	55.46984	8.31535	305	North Sea	North Sea	698.4288
+2C1RW	2C1RW	1	autumn	rocks	water	55.46984	8.31535	306	North Sea	North Sea	698.4288
+2C1SW	2C1SW	1	autumn	sand	water	55.46984	8.31535	308	North Sea	North Sea	698.4288
+C1RW	C1RW	1	spring	rocks	water	55.46984	8.31535	310	North Sea	North Sea	698.4288
+C1SB	C1SB	1	spring	sand	sediment	55.46984	8.31535	311	North Sea	North Sea	698.4288
+C1SW	C1SW	1	spring	sand	water	55.46984	8.31535	312	North Sea	North Sea	698.4288

@@ -1,0 +1,114 @@
+phylum	class	phylum_class	new_phylum	new_class	marine	top_MOTU_class	pident_max_class	total_reads_class	class_DK_GBIF	class_SCAND_GBIF	notes
+Annelida	Clitellata	Annelida_Clitellata	Annelida	Clitellata	yes	Tubificoides benedii	100	3593383	yes	yes	few marine fx Nais
+Annelida	Polychaeta	Annelida_Polychaeta	Annelida	Polychaeta	yes	Nereididae	100	11710139	yes	yes	almost all marine
+Apicomplexa	Conoidasida	Apicomplexa_Conoidasida	Apicomplexa	Conoidasida	yes	Eimeria	97.444	1479	yes	yes	NA
+Arthropoda	Arachnida	Arthropoda_Arachnida	Arthropoda	Arachnida	yes	Hyalomma	99.681	247446	yes	yes	few marine. Fx Marine families of mites in the order Trombidiformes. Agaue is a marine genus acc. to WoRMs and has a GBIF occurrence in UK
+Arthropoda	Branchiopoda	Arthropoda_Branchiopoda	Arthropoda	Branchiopoda	yes	Pleopis polyphemoides	100	33356	yes	yes	NA
+Arthropoda	Chilopoda	Arthropoda_Chilopoda	Arthropoda	Chilopoda	no	Strigamia maritima	98.403	447	#N/A	#N/A	#N/A
+Arthropoda	Collembola	Arthropoda_Collembola	Arthropoda	Collembola	no	Ceratophysella succinea	100	3267	0	0	NA
+Arthropoda	Diplopoda	Arthropoda_Diplopoda	Arthropoda	Diplopoda	no	Tylopus	79.811	60	#N/A	#N/A	#N/A
+Arthropoda	Hexanauplia	Arthropoda_Hexanauplia	Arthropoda	Hexanauplia	yes	Acartia	100	6489941	yes	yes	NA
+Arthropoda	Insecta	Arthropoda_Insecta	Arthropoda	Insecta	no	Hespera	100	2909979	0	0	NA
+Arthropoda	Malacostraca	Arthropoda_Malacostraca	Arthropoda	Malacostraca	yes	Bathyporeia sarsi	100	568485	yes	yes	most aquatic
+Arthropoda	Ostracoda	Arthropoda_Ostracoda	Arthropoda	Ostracoda	yes	Bennelongia	95.847	2329	yes	yes	NA
+Arthropoda	Pycnogonida	Arthropoda_Pycnogonida	Arthropoda	Pycnogonida	yes	Ammothella	99.361	246	yes	yes	også 100% til Anoplodactylus arter
+Arthropoda	Thecostraca	Arthropoda_Thecostraca	Arthropoda	Thecostraca	yes	Arthropoda	100	814683	yes 	yes	NA
+Ascomycota	Arthoniomycetes	Ascomycota_Arthoniomycetes	Ascomycota	Arthoniomycetes	yes	Arthonia	87.261	151	yes	yes	NA
+Ascomycota	Dothideomycetes	Ascomycota_Dothideomycetes	Ascomycota	Dothideomycetes	yes	Cladosporium	100	7418	yes	yes	NA
+Ascomycota	Eurotiomycetes	Ascomycota_Eurotiomycetes	Ascomycota	Eurotiomycetes	yes	Arthrocladium	100	3629	yes	yes	NA
+Ascomycota	Lecanoromycetes	Ascomycota_Lecanoromycetes	Ascomycota	Lecanoromycetes	no	Peltigera	100	3185	0	0	NA
+Ascomycota	Leotiomycetes	Ascomycota_Leotiomycetes	Ascomycota	Leotiomycetes	yes	Leohumicola	100	15642	yes	yes	NA
+Ascomycota	Saccharomycetes	Ascomycota_Saccharomycetes	Ascomycota	Saccharomycetes	yes	Geotrichum candidum	100	1228	yes	yes	NA
+Ascomycota	Sordariomycetes	Ascomycota_Sordariomycetes	Ascomycota	Sordariomycetes	yes	Trichoderma lixii	100	31259	yes	yes	NA
+Ascomycota	Taphrinomycetes	Ascomycota_Taphrinomycetes	Ascomycota	Taphrinomycetes	no	Taphrina	91.401	220	0	0	NA
+Bacillariophyta	Bacillariophyceae	Bacillariophyta_Bacillariophyceae	Bacillariophyceae*	Bacillariophyceae	yes	Sellaphora	100	11166424	yes	yes	NA
+Bacillariophyta	Coscinodiscophyceae	Bacillariophyta_Coscinodiscophyceae	Coscinodiscophyceae*	Coscinodiscophyceae	yes	Melosira	100	1217356	yes	yes	NA
+Bacillariophyta	Fragilariophyceae	Bacillariophyta_Fragilariophyceae	Fragilariophyceae*	Fragilariophyceae	yes	Asterionellopsis	88.179	577763	yes	yes	NA
+Bacillariophyta	Mediophyceae	Bacillariophyta_Mediophyceae	Mediophyceae*	Mediophyceae	yes	Minutocellus	99.681	243883	yes	yes	NA
+Bacillariophyta	NA	Bacillariophyta_NA	Bacillariophyta_NA	NA	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Basidiomycota	Agaricomycetes	Basidiomycota_Agaricomycetes	Basidiomycota	Agaricomycetes	yes	Lactarius	99.681	343253	yes	yes	NA
+Basidiomycota	Exobasidiomycetes	Basidiomycota_Exobasidiomycetes	Basidiomycota	Exobasidiomycetes	yes	NA	100	20	yes	yes	NA
+Basidiomycota	Malasseziomycetes	Basidiomycota_Malasseziomycetes	Basidiomycota	Malasseziomycetes	yes	Malassezia	73.817	10	yes	yes	NA
+Basidiomycota	Microbotryomycetes	Basidiomycota_Microbotryomycetes	Basidiomycota	Microbotryomycetes	yes	Rhodotorula mucilaginosa	100	37184	yes	yes	NA
+Basidiomycota	Pucciniomycetes	Basidiomycota_Pucciniomycetes	Basidiomycota	Pucciniomycetes	no	Melampsora	100	63	0	0	NA
+Basidiomycota	Tremellomycetes	Basidiomycota_Tremellomycetes	Basidiomycota	Tremellomycetes	yes	Tremella	82.278	4	yes	yes	NA
+Bryozoa	Gymnolaemata	Bryozoa_Gymnolaemata	Bryozoa	Gymnolaemata	yes	Amathia gracilis	100	4992	yes	yes	NA
+Cercozoa	Imbricatea	Cercozoa_Imbricatea	Cercozoa	Imbricatea	yes	Cyphoderia	90.096	1942	yes	yes	NA
+Chlorophyta	Chlorophyceae	Chlorophyta_Chlorophyceae	Chlorophyta	Chlorophyceae	yes	Ankistrodesmus	100	4031	yes	yes	NA
+Chlorophyta	Chloropicophyceae	Chlorophyta_Chloropicophyceae	Chlorophyta	Chloropicophyceae	yes	Chloroparvula pacifica	99.361	3429	yes	yes	few records in DK/SCAND
+Chlorophyta	Mamiellophyceae	Chlorophyta_Mamiellophyceae	Chlorophyta	Mamiellophyceae	yes	Bathycoccus prasinos	100	9364785	yes	yes	NA
+Chlorophyta	NA	Chlorophyta_NA	Chlorophyta	NA	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Chlorophyta	Nephroselmidophyceae	Chlorophyta_Nephroselmidophyceae	Chlorophyta	Nephroselmidophyceae	yes	Nephroselmis	96.805	642	yes	yes	NA
+Chlorophyta	Pyramimonadophyceae	Chlorophyta_Pyramimonadophyceae	Chlorophyta	Pyramimonadophyceae	yes	Cymbomonas	100	275	yes	yes	many DK records or Pyramimonas
+Chlorophyta	Trebouxiophyceae	Chlorophyta_Trebouxiophyceae	Chlorophyta	Trebouxiophyceae	yes	Chlorella	100	14597	yes	yes	NA
+Chlorophyta	Ulvophyceae	Chlorophyta_Ulvophyceae	Chlorophyta	Ulvophyceae	yes	Codium	100	6183	yes	yes	most marine
+Chordata	Actinopteri	Chordata_Actinopteri	Chordata	Actinopteri	yes	Solea solea	100	227663	yes	yes	NA
+Chordata	Amphibia	Chordata_Amphibia	Chordata	Amphibia	no	Lithobates	100	2114	0	0	NA
+Chordata	Ascidiacea	Chordata_Ascidiacea	Chordata	Ascidiacea	yes	Ascidiella aspersa	100	232961	yes	yes	NA
+Chordata	Aves	Chordata_Aves	Chordata	Aves	no	Fulica atra	100	50729	#N/A	#N/A	#N/A
+Chordata	Chondrichthyes	Chordata_Chondrichthyes	Chordata	Chondrichthyes	yes	Galeus	72.327	182	yes	yes	NA
+Chordata	Leptocardii	Chordata_Leptocardii	Chordata	Leptocardii	yes	Branchiostoma lanceolatum	100	181	yes	yes	NA
+Chordata	Mammalia	Chordata_Mammalia	Chordata	Mammalia	yes	Miniopterus	100	19707	yes	yes	only some marine groups
+Chytridiomycota	Chytridiomycetes	Chytridiomycota_Chytridiomycetes	Chytridiomycota	Chytridiomycetes	yes	Synchytrium	85.174	6521	yes	yes	NA
+Cnidaria	Anthozoa	Cnidaria_Anthozoa	Cnidaria	Anthozoa	yes	Metridium senile	100	12351	yes	yes	NA
+Cnidaria	Hydrozoa	Cnidaria_Hydrozoa	Cnidaria	Hydrozoa	yes	Eudendrium	100	9408157	yes	yes	NA
+Cnidaria	Scyphozoa	Cnidaria_Scyphozoa	Cnidaria	Scyphozoa	yes	Aurelia aurita	100	1305873	yes	yes	NA
+Cnidaria	Staurozoa	Cnidaria_Staurozoa	Cnidaria	Staurozoa	yes	Haliclystus	100	6606	yes	yes	NA
+Ctenophora	Tentaculata	Ctenophora_Tentaculata	Ctenophora	Tentaculata	yes	Mnemiopsis leidyi	99.684	44773	yes	yes	NA
+Discosea	Flabellinia	Discosea_Flabellinia	Discosea	Flabellinia	yes	Paramoeba	100	648589	yes	yes	NA
+Discosea	NA	Discosea_NA	Discosea	NA	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Echinodermata	Asteroidea	Echinodermata_Asteroidea	Echinodermata	Asteroidea	yes	Asterias rubens	100	33604	yes	yes	NA
+Echinodermata	Crinoidea	Echinodermata_Crinoidea	Echinodermata	Crinoidea	yes	Alloeocomatella	79.618	37757	yes	yes	#N/A
+Echinodermata	Echinoidea	Echinodermata_Echinoidea	Echinodermata	Echinoidea	yes	Echinocardium cordatum	100	1581574	yes	yes	NA
+Echinodermata	Holothuroidea	Echinodermata_Holothuroidea	Echinodermata	Holothuroidea	yes	Mesothuria	73.418	3554	yes	yes	NA
+Echinodermata	Ophiuroidea	Echinodermata_Ophiuroidea	Echinodermata	Ophiuroidea	yes	Ophiura albida	100	2505	yes	yes	NA
+Endomyxa	Phytomyxea	Endomyxa_Phytomyxea	Endomyxa	Phytomyxea	yes	Spongospora	84.762	67	yes	yes	NA
+Entoprocta	NA	Entoprocta_NA	Entoprocta	Entoprocta*	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Evosea	Eumycetozoa	Evosea_Eumycetozoa	Evosea	Eumycetozoa	no	Didymium	88.779	365	#N/A	#N/A	#N/A
+Evosea	NA	Evosea_NA	Evosea	NA	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Gastrotricha	NA	Gastrotricha_NA	Gastrotricha	Gastrotricha*	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Gnathostomulida	NA	Gnathostomulida_NA	Gnathostomulida	Gnathostomulida*	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Haptophyta	NA	Haptophyta_NA	Haptophyta	Haptophyta*	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Kinorhyncha	Allomalorhagida	Kinorhyncha_Allomalorhagida	Kinorhyncha	Allomalorhagida	yes	Pycnophyes kielensis	100	43	yes	yes	NA
+Mollusca	Bivalvia	Mollusca_Bivalvia	Mollusca	Bivalvia	yes	Mytilus trossulus	100	1601519	yes	yes	NA
+Mollusca	Cephalopoda	Mollusca_Cephalopoda	Mollusca	Cephalopoda	yes	Adelieledone	76.508	12666	yes	yes	#N/A
+Mollusca	Gastropoda	Mollusca_Gastropoda	Mollusca	Gastropoda	yes	Peringia ulvae	100	1995148	yes	yes	NA
+Mollusca	Polyplacophora	Mollusca_Polyplacophora	Mollusca	Polyplacophora	yes	Leptochiton	99.681	4622	yes	yes	NA
+Mucoromycota	Mucoromycetes	Mucoromycota_Mucoromycetes	Mucoromycota	Mucoromycetes	no	Mucorales	99.681	21578	0	0	NA
+NA	Bigyra	NA_Bigyra	Bigyra*	Bigyra	yes	Parietichytrium	95.847	2762	yes	yes	Thraustochytriaceae in DK
+NA	Bolidophyceae	NA_Bolidophyceae	Bolidophyceae*	Bolidophyceae	yes	Triparma	79.872	15574	yes	yes	0
+NA	Chrysophyceae	NA_Chrysophyceae	Chrysophyceae*	Chrysophyceae	yes	Poteriospumella	84.984	2097065	yes	yes	NA
+NA	Cryptophyceae	NA_Cryptophyceae	Cryptophyta	Cryptophyceae	yes	Leucocryptos marina	100	180919	yes	yes	NA
+NA	Dictyochophyceae	NA_Dictyochophyceae	Dictyochophyceae*	Dictyochophyceae	yes	Pseudochattonella verruculosa	99.681	22286	yes	yes	NA
+NA	Dinophyceae	NA_Dinophyceae	Dinophyceae*	Dinophyceae	yes	Togula jolla	100	7671480	yes	yes	NA
+NA	Eustigmatophyceae	NA_Eustigmatophyceae	Eustigmatophyceae*	Eustigmatophyceae	yes	Nannochloropsis limnetica	100	95021	yes	yes	NA
+NA	Filasterea	NA_Filasterea	Filasterea*	Filasterea	yes	Capsaspora	100	591	yes	yes	NA
+NA	Pelagophyceae	NA_Pelagophyceae	Pelagophyceae*	Pelagophyceae	yes	Aureococcus anophagefferens	100	236627	yes	yes	few records in DK/SCAND
+NA	Phaeophyceae	NA_Phaeophyceae	Phaeophyceae*	Phaeophyceae	yes	Hincksia granulosa	100	7097338	yes	yes	NA
+NA	Raphidophyceae	NA_Raphidophyceae	Raphidophyceae*	Raphidophyceae	yes	Haramonas	100	264114	yes	yes	Fibrocapsa found in DK
+NA	Synurophyceae	NA_Synurophyceae	Synurophyceae*	Synurophyceae	yes	Poterioochromonas	81.587	119337	yes	yes	NA
+Nematoda	Chromadorea	Nematoda_Chromadorea	Nematoda	Chromadorea	yes	Terschellingia	99.681	299458	yes	yes	NA
+Nematoda	NA	Nematoda_NA	Nematoda	NA	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Nemertea	Enopla	Nemertea_Enopla	Nemertea	Enopla	yes	Gurjanovella	100	31568	yes	yes	No results on GBIF, so based on this report https://om.arter.dk/media/1dglswfg/allearter-status2016-endelig-version.pdf
+Nemertea	Palaeonemertea	Nemertea_Palaeonemertea	Nemertea	Palaeonemertea	yes	Carinina ochracea	100	6342	yes	yes	NA
+Nemertea	Pilidiophora	Nemertea_Pilidiophora	Nemertea	Pilidiophora	yes	Lineidae	99.681	136598	yes	yes	NA
+Onychophora	Udeonychophora	Onychophora_Udeonychophora	Onychophora	Udeonychophora	no	Ooperipatus	83.492	141825	#N/A	#N/A	#N/A
+Oomycota	NA	Oomycota_NA	Oomycota	Oomycota*	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Placozoa	NA	Placozoa_NA	Placozoa	Placozoa*	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Platyhelminthes	Cestoda	Platyhelminthes_Cestoda	Platyhelminthes	Cestoda	yes	Parachristianella	80.192	39	yes	yes	NA
+Platyhelminthes	Rhabditophora	Platyhelminthes_Rhabditophora	Platyhelminthes	Rhabditophora	yes	Monocelis fusca	100	3440637	yes	yes	NA
+Platyhelminthes	Trematoda	Platyhelminthes_Trematoda	Platyhelminthes	Trematoda	yes	Cryptocotyle lingua	100	4334	yes	yes	NA
+Porifera	Demospongiae	Porifera_Demospongiae	Porifera	Demospongiae	yes	Ptilocaulis	100	460844	yes	yes	NA
+Porifera	Homoscleromorpha	Porifera_Homoscleromorpha	Porifera	Homoscleromorpha	yes	Oscarella	81.013	4790	yes	yes	Only one GBIF record in DK
+Prasinodermophyta	Prasinodermophyceae	Prasinodermophyta_Prasinodermophyceae	Prasinodermophyta	Prasinodermophyceae	yes	Prasinoderma coloniale	98.722	6485	yes	yes	NA
+Rhodophyta	Bangiophyceae	Rhodophyta_Bangiophyceae	Rhodophyta	Bangiophyceae	yes	Pyropia	99.681	11180	yes	yes	NA
+Rhodophyta	Compsopogonophyceae	Rhodophyta_Compsopogonophyceae	Rhodophyta	Compsopogonophyceae	yes	Erythrotrichia carnea	98.722	413	yes	yes	NA
+Rhodophyta	Florideophyceae	Rhodophyta_Florideophyceae	Rhodophyta	Florideophyceae	yes	Hildenbrandia rubra	100	3475604	yes	yes	NA
+Rotifera	Eurotatoria	Rotifera_Eurotatoria	Rotifera	Eurotatoria	yes	Keratella	100	158478	yes	yes	NA
+Streptophyta	Magnoliopsida	Streptophyta_Magnoliopsida	Streptophyta	Magnoliopsida	yes	Silene	100	3138	yes	yes	R. maritima er alm. havgræs
+Streptophyta	Zygnemophyceae	Streptophyta_Zygnemophyceae	Streptophyta	Zygnemophyceae	no	Roya	83.067	2919	0	0	NA
+Tardigrada	Heterotardigrada	Tardigrada_Heterotardigrada	Tardigrada	Heterotardigrada	yes	Echiniscoides	96.805	1263	yes	yes	NA
+Tubulinea	Echinamoebida	Tubulinea_Echinamoebida	Tubulinea	Echinamoebida	no	Vermamoeba vermiformis	99.681	1044	0	0	NA
+Tubulinea	Elardia	Tubulinea_Elardia	Tubulinea	Elardia	yes	Copromyxa	91.857	1599	yes	yes	NA
+Xenacoelomorpha	NA	Xenacoelomorpha_NA	Xenacoelomorpha	Xenacoelomorpha*	NA	Phytopythium	100	9963080	#N/A	#N/A	#N/A
+Zoopagomycota	Harpellomycetes	Zoopagomycota_Harpellomycetes	Zoopagomycota	Harpellomycetes	no	Zancudomyces	77.848	77	#N/A	#N/A	#N/A

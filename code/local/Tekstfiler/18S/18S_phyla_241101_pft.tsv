@@ -1,0 +1,62 @@
+kingdom	phylum	supergroup		
+Chromista	Bacillariophyta	SAR: Stramenopiles		
+Chromista	Ciliophora	SAR: Alveolates		
+Chromista	Bigyra*	SAR: Stramenopiles		
+Chromista	Endomyxa	SAR: Rhizarians		
+Chromista	Cercozoa	SAR: Rhizarians		
+Chromista	Heliozoa	SAR: Rhizarians		paraphyletic
+Chromista	Ochrophyta	SAR: Stramenopiles		meget divers gruppe
+Chromista	Cryptophyta	Cryptista		
+Chromista	Apicomplexa	SAR: Alveolates		
+Chromista	Developea*	SAR: Stramenopiles		
+Chromista	Hyphochytriomycetes*	SAR: Stramenopiles		
+Chromista	Polycystinea*	SAR: Rhizarians		part of Radiolaria
+Fungi	Ascomycota	Opisthokonts		
+Fungi	Chytridiomycota	Opisthokonts		
+Fungi	Basidiomycota	Opisthokonts		
+Fungi	Zoopagomycota	Opisthokonts		
+Fungi	Blastocladiomycota	Opisthokonts		
+Fungi	Mucoromycota	Opisthokonts		
+Fungi	Aphelidea*	Opisthokonts		
+Metazoa	Mollusca	Opisthokonts		
+Metazoa	Arthropoda	Opisthokonts		
+Metazoa	Nematoda	Opisthokonts		
+Metazoa	Platyhelminthes	Opisthokonts		
+Metazoa	Annelida	Opisthokonts		
+Metazoa	Bryozoa	Opisthokonts		
+Metazoa	Chordata	Opisthokonts		
+Metazoa	Cnidaria	Opisthokonts		
+Metazoa	Echinodermata	Opisthokonts		
+Metazoa	Nemertea	Opisthokonts		
+Metazoa	Porifera	Opisthokonts		
+Metazoa	Rotifera	Opisthokonts		
+Metazoa	Chaetognatha	Opisthokonts		
+Metazoa	Ctenophora	Opisthokonts		
+Metazoa	Tardigrada	Opisthokonts		
+Metazoa	Kinorhyncha	Opisthokonts		
+Metazoa	Acanthocephala	Opisthokonts		
+Plantae	Chlorophyta	Archaeplastids		
+Plantae	Streptophyta	Archaeplastids		
+Plantae	Glaucocystophyceae*	Archaeplastids		
+Plantae	Rhodophyta	Archaeplastids		
+Plantae	Rhodelphidia	Archaeplastids		
+Plantae	Prasinodermophyta	Archaeplastids		
+Protozoa	Choanozoa	Opisthokonts	skal deles op i flere: Filasterea, Ichthyosporea	
+Chromista	Sarcomastigophora	SAR: Rhizarians	Acantharea*	
+Protozoa	Choanoflagellata*	Opisthokonts		
+Protozoa	Tubulinea	Amoebozoans		
+Protozoa	Evosea	Amoebozoans		
+Protozoa	Discosea	Amoebozoans		
+Protozoa	Sulcozoa	Breviates	Breviatea*	Breviatea  are outside the regular supergroups close to Opistokonts and Amoebozoans
+Protozoa	Euglenozoa	Discobids		
+				
+				
+				
+				
+				
+Class	phylum			
+Choanoflagellata	Choanoflagellata*			
+Developea	Developea			
+Glaucocystophyceae	Glaucocystophyceae*			
+Hyphochytriomycetes	Hyphochytriomycetes*			
+Polycystinea	Polycystinea*			

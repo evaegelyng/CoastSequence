@@ -1,0 +1,32 @@
+Root	Community	Cluster	Lat	Lon	Geographic_Order	Sub_Area	dist_from_C33.km
+water_33	water_33	33	55.02055	14.91195	1	Baltic Sea	0
+water_32	water_32	32	55.25714	14.819494	2	Baltic Sea	46.45742
+water_23	water_23	23	54.9502	12.475707	3	Baltic Sea	159.5132
+water_24	water_24	24	55.1359	12.107394	4	Baltic Sea	180.9443
+water_25	water_25	25	55.56932	12.288887	5	Baltic Sea	182.8389
+water_26	water_26	26	55.75147	12.593566	6	Kattegat	186.8034
+water_27	water_27	27	56.04451	12.609195	7	Kattegat	219.3034
+water_21	water_21	21	54.84749	11.479693	8	Baltic Sea	227.6274
+water_20	water_20	20	54.88502	11.013504	9	Baltic Sea	258.1143
+water_31	water_31	31	55.34755	11.101177	10	Kattegat	263.8756
+water_28	water_28	28	55.96898	11.846132	11	Kattegat	275.6713
+water_19	water_19	19	55.06489	10.21874	12	Kattegat	315.087
+water_29	water_29	29	55.68357	12.073107	13	Kattegat	315.385
+water_16	water_16	16	55.49418	10.618222	14	Kattegat	317.1916
+water_30	water_30	30	55.75885	11.349378	15	Kattegat	321.6292
+water_13	water_13	13	56.44816	10.955088	16	Kattegat	333.7817
+water_18	water_18	18	55.11826	9.488224	17	Kattegat	363.0035
+water_15	water_15	15	55.70038	9.710981	18	Kattegat	365.5222
+water_14	water_14	14	56.12285	10.223454	19	Kattegat	367.7272
+water_17	water_17	17	55.4722	9.724384	20	Kattegat	369.8452
+water_12	water_12	12	56.60705	10.297121	21	Kattegat	378.2948
+water_11	water_11	11	56.7972	10.28607	22	Kattegat	386.8643
+water_7	water_7	7	57.32298	11.132922	23	Kattegat	391.9147
+water_6	water_6	6	57.31915	10.532144	24	Kattegat	410.844
+water_8	water_8	8	57.0103	9.6348	25	Limfjord	445.3668
+water_5	water_5	5	57.59213	9.947258	26	North Sea	492.1952
+water_9	water_9	9	56.71281	9.209116	27	Limfjord	501.0269
+water_10	water_10	10	56.55926	8.615045	28	Limfjord	531.2921
+water_4	water_4	4	57.12644	8.615189	29	North Sea	588.4757
+water_3	water_3	3	55.98989	8.120517	30	North Sea	632.1162
+water_1	water_1	1	55.46984	8.31535	31	North Sea	698.4288
