@@ -47,7 +47,7 @@ Overview of folders/files and their contents: The folder contains the scripts fo
 
 Instructions: The scripts should be run in the following order:
 
-1. Local_scripts/BARCODE/BARCODE_analyses.Rmd
+1. scripts/BARCODE/BARCODE_analyses.Rmd
 2. BARCODE/hmsc_BARCODE_sed.r and BARCODE/hmsc_BARCODE_water.r 
 3. BARCODE/Diagnostics_sed.r and BARCODE/Diagnostics_wat.r
 4. BARCODE/Coef_plot_BARCODE_sed.r and BARCODE/Coef_plot_BARCODE_wat.r
