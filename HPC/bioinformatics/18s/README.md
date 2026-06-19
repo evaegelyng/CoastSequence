@@ -19,7 +19,7 @@ Package versions:
 •  tidyverse 2.0.0
 •  vegan 2.6_2
 
-Overview of folders/files and their contents: The folders "Spring" and "Autumn" contain a gwf workflow file (workflow.py) and a folder with scripts for the basic processing of raw amplicon sequencing data, from demultiplexing of fastq files to the generation of an ASV table with a corresponding file of ASV sequences. The folder "Both_seasons" contains scripts for further processing, including taxonomic assignment, metadata formatting, ASV filtering based on negative controls and prevalence, and normalization by rarefying.
+Overview of folders/files and their contents: The folder "base" contains a gwf workflow file (workflow.py) and a folder with scripts for the basic processing of raw amplicon sequencing data, from demultiplexing of fastq files to the generation of an ASV table with a corresponding file of ASV sequences. The folder "both_seasons" contains scripts for further processing, including taxonomic assignment, metadata formatting, ASV filtering based on negative controls and prevalence, and normalization by rarefying.
 
 Instructions: The scripts for basic processing are all run from the workflow.py file. For the further processing, the scripts were run in the following order:
 
